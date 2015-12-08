@@ -1,0 +1,2847 @@
+{
+  "name": "International Standard Classification of Occupations",
+  "major_groups": [
+    {
+      "code": "1",
+      "name": "Managers",
+      "sub_major_groups": [
+        {
+          "code": "11",
+          "name": "Chief Executives, Senior Officials and Legislators",
+          "minor_groups": [
+            {
+              "code": "111",
+              "name": "Legislators and Senior Officials",
+              "unit_groups": [
+                {
+                  "code": "1111",
+                  "name": "Legislators"
+                },
+                {
+                  "code": "1112",
+                  "name": "Senior Government Officials"
+                },
+                {
+                  "code": "1113",
+                  "name": "Traditional Chiefs and Heads of Villages"
+                },
+                {
+                  "code": "1114",
+                  "name": "Senior Officials of Special-interest Organizations"
+                }
+              ]
+            },
+            {
+              "code": "112",
+              "name": "Managing Directors and Chief Executives",
+              "unit_groups": [
+                {
+                  "code": "1120",
+                  "name": "Managing Directors and Chief Executives"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "name": "Administrative and Commercial Managers",
+          "minor_groups": [
+            {
+              "code": "121",
+              "name": "Business Services and Administration Managers",
+              "unit_groups": [
+                {
+                  "code": "1211",
+                  "name": "Finance Managers"
+                },
+                {
+                  "code": "1212",
+                  "name": "Human Resource Managers"
+                },
+                {
+                  "code": "1213",
+                  "name": "Policy and Planning Managers"
+                },
+                {
+                  "code": "1219",
+                  "name": "Business Services and Administration Managers Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "122",
+              "name": "Sales, Marketing and Development Managers",
+              "unit_groups": [
+                {
+                  "code": "1221",
+                  "name": "Sales and Marketing Managers"
+                },
+                {
+                  "code": "1222",
+                  "name": "Advertising and Public Relations Managers"
+                },
+                {
+                  "code": "1223",
+                  "name": "Research and Development Managers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "name": "Production and Specialized Services Managers",
+          "minor_groups": [
+            {
+              "code": "131",
+              "name": "Production Managers in Agriculture, Forestry and Fisheries",
+              "unit_groups": [
+                {
+                  "code": "1311",
+                  "name": "Agricultural and Forestry Production Managers"
+                },
+                {
+                  "code": "1312",
+                  "name": "Aquaculture and Fisheries Production Managers"
+                }
+              ]
+            },
+            {
+              "code": "132",
+              "name": "Manufacturing, Mining, Construction and Distribution Managers",
+              "unit_groups": [
+                {
+                  "code": "1321",
+                  "name": "Manufacturing Managers"
+                },
+                {
+                  "code": "1322",
+                  "name": "Mining Managers"
+                },
+                {
+                  "code": "1323",
+                  "name": "Construction Managers"
+                },
+                {
+                  "code": "1324",
+                  "name": "Supply, Distribution and Related Managers"
+                }
+              ]
+            },
+            {
+              "code": "133",
+              "name": "Information and Communications Technology Services Managers",
+              "unit_groups": [
+                {
+                  "code": "1330",
+                  "name": "Information and Communications Technology Services Managers"
+                }
+              ]
+            },
+            {
+              "code": "134",
+              "name": "Professional Services Managers",
+              "unit_groups": [
+                {
+                  "code": "1341",
+                  "name": "Child Care Services Managers"
+                },
+                {
+                  "code": "1342",
+                  "name": "Health Services Managers"
+                },
+                {
+                  "code": "1343",
+                  "name": "Aged Care Services Managers"
+                },
+                {
+                  "code": "1344",
+                  "name": "Social Welfare Managers"
+                },
+                {
+                  "code": "1345",
+                  "name": "Education Managers"
+                },
+                {
+                  "code": "1346",
+                  "name": "Financial and Insurance Services Branch Managers"
+                },
+                {
+                  "code": "1349",
+                  "name": "Professional Services Managers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "name": "Hospitality, Retail and Other Services Managers",
+          "minor_groups": [
+            {
+              "code": "141",
+              "name": "Hotel and Restaurant Managers",
+              "unit_groups": [
+                {
+                  "code": "1411",
+                  "name": "Hotel Managers"
+                },
+                {
+                  "code": "1412",
+                  "name": "Restaurant Managers"
+                }
+              ]
+            },
+            {
+              "code": "142",
+              "name": "Retail and Whole sale Trade Managers",
+              "unit_groups": [
+                {
+                  "code": "1420",
+                  "name": "Retail and Wholesale Trade Managers"
+                }
+              ]
+            },
+            {
+              "code": "143",
+              "name": "Other Services Managers",
+              "unit_groups": [
+                {
+                  "code": "1431",
+                  "name": "Sports, Recreation and Cultural Centre Managers"
+                },
+                {
+                  "code": "1439",
+                  "name": "Services Managers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2",
+      "name": "Professionals",
+      "sub_major_groups": [
+        {
+          "code": "21",
+          "name": "Science and Engineering Professionals",
+          "minor_groups": [
+            {
+              "code": "211",
+              "name": "Physicaland Earth Science Professionals",
+              "unit_groups": [
+                {
+                  "code": "2111",
+                  "name": "Physicists and Astronomers"
+                },
+                {
+                  "code": "2112",
+                  "name": "Meteorologists"
+                },
+                {
+                  "code": "2113",
+                  "name": "Chemists"
+                },
+                {
+                  "code": "2114",
+                  "name": "Geologists and Geophysicists"
+                }
+              ]
+            },
+            {
+              "code": "212",
+              "name": "Mathematicians, Actuaries and Statisticians",
+              "unit_groups": [
+                {
+                  "code": "2120",
+                  "name": "Mathematicians, Actuaries and Statisticians"
+                }
+              ]
+            },
+            {
+              "code": "213",
+              "name": "Life Science Professionals",
+              "unit_groups": [
+                {
+                  "code": "2131",
+                  "name": "Biologists, Botanists, Zoologists and Related Professionals"
+                },
+                {
+                  "code": "2132",
+                  "name": "Farming, Forestry and Fisheries Advisers"
+                },
+                {
+                  "code": "2133",
+                  "name": "Environmental Protection Professionals"
+                }
+              ]
+            },
+            {
+              "code": "214",
+              "name": "Engineering Professionals (excluding Electrotechnology)",
+              "unit_groups": [
+                {
+                  "code": "2141",
+                  "name": "Industrial and Production Engineers"
+                },
+                {
+                  "code": "2142",
+                  "name": "Civil Engineers"
+                },
+                {
+                  "code": "2143",
+                  "name": "Environmental Engineers"
+                },
+                {
+                  "code": "2144",
+                  "name": "Mechanical Engineers"
+                },
+                {
+                  "code": "2145",
+                  "name": "Chemical Engineers"
+                },
+                {
+                  "code": "2146",
+                  "name": "Mining Engineers, Metallurgists and Related Professionals"
+                },
+                {
+                  "code": "2149",
+                  "name": "Engineering Professionals Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "215",
+              "name": "Electrotechnology Engineers",
+              "unit_groups": [
+                {
+                  "code": "2151",
+                  "name": "Electrical Engineers"
+                },
+                {
+                  "code": "2152",
+                  "name": "Electronics Engineers"
+                },
+                {
+                  "code": "2153",
+                  "name": "Telecommunications Engineers"
+                }
+              ]
+            },
+            {
+              "code": "216",
+              "name": "Architects, Planners, Surveyors and Designers",
+              "unit_groups": [
+                {
+                  "code": "2161",
+                  "name": "Building Architects"
+                },
+                {
+                  "code": "2162",
+                  "name": "Landscape Architects"
+                },
+                {
+                  "code": "2163",
+                  "name": "Product and Garment Designers"
+                },
+                {
+                  "code": "2164",
+                  "name": "Town and Traffic Planners"
+                },
+                {
+                  "code": "2165",
+                  "name": "Cartographers and Surveyors"
+                },
+                {
+                  "code": "2166",
+                  "name": "Graphic and Multimedia Designers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "22",
+          "name": "Health Professionals",
+          "minor_groups": [
+            {
+              "code": "221",
+              "name": "Medical Doctors",
+              "unit_groups": [
+                {
+                  "code": "2211",
+                  "name": "Generalist Medical Practitioners"
+                },
+                {
+                  "code": "2212",
+                  "name": "Specialist Medical Practitioners"
+                }
+              ]
+            },
+            {
+              "code": "222",
+              "name": "Nursing and Midwifery Professionals",
+              "unit_groups": [
+                {
+                  "code": "2221",
+                  "name": "Nursing Professionals"
+                },
+                {
+                  "code": "2222",
+                  "name": "Midwifery Professionals"
+                }
+              ]
+            },
+            {
+              "code": "223",
+              "name": "Traditional and Complementary Medicine Professionals",
+              "unit_groups": [
+                {
+                  "code": "2230",
+                  "name": "Traditional and Complementary Medicine Professionals"
+                }
+              ]
+            },
+            {
+              "code": "224",
+              "name": "Paramedical Practitioners",
+              "unit_groups": [
+                {
+                  "code": "2240",
+                  "name": "Paramedical Practitioners"
+                }
+              ]
+            },
+            {
+              "code": "225",
+              "name": "Veterinarians",
+              "unit_groups": [
+                {
+                  "code": "2250",
+                  "name": "Veterinarians"
+                }
+              ]
+            },
+            {
+              "code": "226",
+              "name": "Other Health Professionals",
+              "unit_groups": [
+                {
+                  "code": "2261",
+                  "name": "Dentists"
+                },
+                {
+                  "code": "2262",
+                  "name": "Pharmacists"
+                },
+                {
+                  "code": "2263",
+                  "name": "Environmental and Occupational Health and Hygiene Professionals"
+                },
+                {
+                  "code": "2264",
+                  "name": "Physiotherapists"
+                },
+                {
+                  "code": "2265",
+                  "name": "Dieticians and Nutritionists"
+                },
+                {
+                  "code": "2266",
+                  "name": "Audiologists and Speech Therapists"
+                },
+                {
+                  "code": "2267",
+                  "name": "Optometrists and Ophthalmic Opticians"
+                },
+                {
+                  "code": "2269",
+                  "name": "Health Professionals Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "23",
+          "name": "Teaching Professionals",
+          "minor_groups": [
+            {
+              "code": "231",
+              "name": "University and Higher Education Teachers",
+              "unit_groups": [
+                {
+                  "code": "2310",
+                  "name": "University and Higher Education Teachers"
+                }
+              ]
+            },
+            {
+              "code": "232",
+              "name": "Vocational Education Teachers",
+              "unit_groups": [
+                {
+                  "code": "2320",
+                  "name": "Vocational Education Teachers"
+                }
+              ]
+            },
+            {
+              "code": "233",
+              "name": "Secondary Education Teachers",
+              "unit_groups": [
+                {
+                  "code": "2330",
+                  "name": "Secondary Education Teachers"
+                }
+              ]
+            },
+            {
+              "code": "234",
+              "name": "Primary School and Early Childhood Teachers",
+              "unit_groups": [
+                {
+                  "code": "2341",
+                  "name": "Primary School Teachers"
+                },
+                {
+                  "code": "2342",
+                  "name": "Early Childhood Educators"
+                }
+              ]
+            },
+            {
+              "code": "235",
+              "name": "Other Teaching Professionals",
+              "unit_groups": [
+                {
+                  "code": "2351",
+                  "name": "Education Methods Specialists"
+                },
+                {
+                  "code": "2352",
+                  "name": "Special Needs Teachers"
+                },
+                {
+                  "code": "2353",
+                  "name": "Other Language Teachers"
+                },
+                {
+                  "code": "2354",
+                  "name": "Other Music Teachers"
+                },
+                {
+                  "code": "2355",
+                  "name": "Other Arts Teachers"
+                },
+                {
+                  "code": "2356",
+                  "name": "Information Technology Trainers"
+                },
+                {
+                  "code": "2359",
+                  "name": "Teaching Professionals Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "24",
+          "name": "Business and Administration Professionals",
+          "minor_groups": [
+            {
+              "code": "241",
+              "name": "FinanceProfessionals",
+              "unit_groups": [
+                {
+                  "code": "2411",
+                  "name": "Accountants"
+                },
+                {
+                  "code": "2412",
+                  "name": "Financial and Investment Advisers"
+                },
+                {
+                  "code": "2413",
+                  "name": "Financial Analysts"
+                }
+              ]
+            },
+            {
+              "code": "242",
+              "name": "Administration Professionals",
+              "unit_groups": [
+                {
+                  "code": "2421",
+                  "name": "Management and Organization Analysts"
+                },
+                {
+                  "code": "2422",
+                  "name": "Policy Administration Professionals"
+                },
+                {
+                  "code": "2423",
+                  "name": "Personnel and Careers Professionals"
+                },
+                {
+                  "code": "2424",
+                  "name": "Training and Staff Development Professionals"
+                }
+              ]
+            },
+            {
+              "code": "243",
+              "name": "Sales, Marketing and Public Relations Professionals",
+              "unit_groups": [
+                {
+                  "code": "2431",
+                  "name": "Advertising and Marketing Professionals"
+                },
+                {
+                  "code": "2432",
+                  "name": "Public Relations Professionals"
+                },
+                {
+                  "code": "2433",
+                  "name": "Technical and Medical Sales Professionals (excluding ICT)"
+                },
+                {
+                  "code": "2434",
+                  "name": "Information and Communications Technology Sales Professionals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "25",
+          "name": "Information and Communications Technology Professionals",
+          "minor_groups": [
+            {
+              "code": "251",
+              "name": "SoftwareandApplicationsDevelopersandAnalysts",
+              "unit_groups": [
+                {
+                  "code": "2511",
+                  "name": "Systems Analysts"
+                },
+                {
+                  "code": "2512",
+                  "name": "Software Developers"
+                },
+                {
+                  "code": "2513",
+                  "name": "Web and Multimedia Developers"
+                },
+                {
+                  "code": "2514",
+                  "name": "Applications Programmers"
+                },
+                {
+                  "code": "2519",
+                  "name": "Software and Applications Developers and Analysts Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "252",
+              "name": "Database and Network Professionals",
+              "unit_groups": [
+                {
+                  "code": "2521",
+                  "name": "Database Designers and Administrators"
+                },
+                {
+                  "code": "2522",
+                  "name": "Systems Administrators"
+                },
+                {
+                  "code": "2523",
+                  "name": "Computer Network Professionals"
+                },
+                {
+                  "code": "2529",
+                  "name": "Database and Network Professionals Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "26",
+          "name": "Legal, Social and Cultural Professionals",
+          "minor_groups": [
+            {
+              "code": "261",
+              "name": "Legal Professionals",
+              "unit_groups": [
+                {
+                  "code": "2611",
+                  "name": "Lawyers"
+                },
+                {
+                  "code": "2612",
+                  "name": "Judges"
+                },
+                {
+                  "code": "2619",
+                  "name": "Legal Professionals Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "262",
+              "name": "Librarians, Archivists and Curators",
+              "unit_groups": [
+                {
+                  "code": "2621",
+                  "name": "Archivists and Curators"
+                },
+                {
+                  "code": "2622",
+                  "name": "Librarians and Related Information Professionals"
+                }
+              ]
+            },
+            {
+              "code": "263",
+              "name": "Social and Religious Professionals",
+              "unit_groups": [
+                {
+                  "code": "2631",
+                  "name": "Economists"
+                },
+                {
+                  "code": "2632",
+                  "name": "Sociologists, Anthropologists and Related Professionals"
+                },
+                {
+                  "code": "2633",
+                  "name": "Philosophers, Historians and Political Scientists"
+                },
+                {
+                  "code": "2634",
+                  "name": "Psychologists"
+                },
+                {
+                  "code": "2635",
+                  "name": "Social Work and Counselling Professionals"
+                },
+                {
+                  "code": "2636",
+                  "name": "Religious Professionals"
+                }
+              ]
+            },
+            {
+              "code": "264",
+              "name": "Authors, Journalists and Linguists",
+              "unit_groups": [
+                {
+                  "code": "2641",
+                  "name": "Authors and Related Writers"
+                },
+                {
+                  "code": "2642",
+                  "name": "Journalists"
+                },
+                {
+                  "code": "2643",
+                  "name": "Translators, Interpreters and Other Linguists"
+                }
+              ]
+            },
+            {
+              "code": "265",
+              "name": "Creative and Performing Artists",
+              "unit_groups": [
+                {
+                  "code": "2651",
+                  "name": "Visual Artists"
+                },
+                {
+                  "code": "2652",
+                  "name": "Musicians, Singers and Composers"
+                },
+                {
+                  "code": "2653",
+                  "name": "Dancers and Choreographers"
+                },
+                {
+                  "code": "2654",
+                  "name": "Film, Stage and Related Directors and Producers"
+                },
+                {
+                  "code": "2655",
+                  "name": "Actors"
+                },
+                {
+                  "code": "2656",
+                  "name": "Announcers on Radio, Television and Other Media"
+                },
+                {
+                  "code": "2659",
+                  "name": "Creative and Performing Artists Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3",
+      "name": "Technicians and Associate Professionals",
+      "sub_major_groups": [
+        {
+          "code": "31",
+          "name": "Science and Engineering Associate Professionals",
+          "minor_groups": [
+            {
+              "code": "311",
+              "name": "Physical and Engineering Science Technicians",
+              "unit_groups": [
+                {
+                  "code": "3111",
+                  "name": "Chemical and Physical Science Technicians"
+                },
+                {
+                  "code": "3112",
+                  "name": "Civil Engineering Technicians"
+                },
+                {
+                  "code": "3113",
+                  "name": "Electrical Engineering Technicians"
+                },
+                {
+                  "code": "3114",
+                  "name": "Electronics Engineering Technicians"
+                },
+                {
+                  "code": "3115",
+                  "name": "Mechanical Engineering Technicians"
+                },
+                {
+                  "code": "3116",
+                  "name": "Chemical Engineering Technicians"
+                },
+                {
+                  "code": "3117",
+                  "name": "Mining and Metallurgical Technicians"
+                },
+                {
+                  "code": "3118",
+                  "name": "Draughtspersons"
+                },
+                {
+                  "code": "3119",
+                  "name": "Physical and Engineering Science Technicians Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "312",
+              "name": "Mining, Manufacturing and Construction Supervisors",
+              "unit_groups": [
+                {
+                  "code": "3121",
+                  "name": "Mining Supervisors"
+                },
+                {
+                  "code": "3122",
+                  "name": "Manufacturing Supervisors"
+                },
+                {
+                  "code": "3123",
+                  "name": "Construction Supervisors"
+                }
+              ]
+            },
+            {
+              "code": "313",
+              "name": "Process Control Technicians",
+              "unit_groups": [
+                {
+                  "code": "3131",
+                  "name": "Power Production Plant Operators"
+                },
+                {
+                  "code": "3132",
+                  "name": "Incinerator and Water Treatment Plant Operators"
+                },
+                {
+                  "code": "3133",
+                  "name": "Chemical Processing Plant Controllers"
+                },
+                {
+                  "code": "3134",
+                  "name": "Petroleum and Natural Gas Refining Plant Operators"
+                },
+                {
+                  "code": "3135",
+                  "name": "Metal Production Process Controllers"
+                },
+                {
+                  "code": "3139",
+                  "name": "Process Control Technicians Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "314",
+              "name": "Life Science Technicians and Related Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3141",
+                  "name": "Life Science Technicians (excluding Medical)"
+                },
+                {
+                  "code": "3142",
+                  "name": "Agricultural Technicians"
+                },
+                {
+                  "code": "3143",
+                  "name": "Forestry Technicians"
+                }
+              ]
+            },
+            {
+              "code": "315",
+              "name": "Ship and Aircraft Controllers and Technicians",
+              "unit_groups": [
+                {
+                  "code": "3151",
+                  "name": "Ships’ Engineers"
+                },
+                {
+                  "code": "3152",
+                  "name": "Ships' Deck Officers and Pilots"
+                },
+                {
+                  "code": "3153",
+                  "name": "Aircraft Pilots and Related Associate Professionals"
+                },
+                {
+                  "code": "3154",
+                  "name": "Air Traffic Controllers"
+                },
+                {
+                  "code": "3155",
+                  "name": "Air Traffic Safety Electronics Technicians"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "32",
+          "name": "Health Associate Professionals",
+          "minor_groups": [
+            {
+              "code": "321",
+              "name": "Medical and Pharmaceutical Technicians",
+              "unit_groups": [
+                {
+                  "code": "3211",
+                  "name": "Medical Imaging and Therapeutic Equipment Technicians"
+                },
+                {
+                  "code": "3212",
+                  "name": "Medical and Pathology Laboratory Technicians"
+                },
+                {
+                  "code": "3213",
+                  "name": "Pharmaceutical Technicians and Assistants"
+                },
+                {
+                  "code": "3214",
+                  "name": "Medical and Dental Prosthetic Technicians"
+                }
+              ]
+            },
+            {
+              "code": "322",
+              "name": "Nursing and Midwifery Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3221",
+                  "name": "Nursing Associate Professionals"
+                },
+                {
+                  "code": "3222",
+                  "name": "Midwifery Associate Professionals"
+                }
+              ]
+            },
+            {
+              "code": "323",
+              "name": "Traditional and Complementary Medicine Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3230",
+                  "name": "Traditional and Complementary Medicine Associate Professionals"
+                }
+              ]
+            },
+            {
+              "code": "324",
+              "name": "Veterinary Technicians and Assistants",
+              "unit_groups": [
+                {
+                  "code": "3240",
+                  "name": "Veterinary Technicians and Assistants"
+                }
+              ]
+            },
+            {
+              "code": "325",
+              "name": "Other Health Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3251",
+                  "name": "Dental Assistants and Therapists"
+                },
+                {
+                  "code": "3252",
+                  "name": "Medical Records and Health Information Technicians"
+                },
+                {
+                  "code": "3253",
+                  "name": "Community Health Workers"
+                },
+                {
+                  "code": "3254",
+                  "name": "Dispensing Opticians"
+                },
+                {
+                  "code": "3255",
+                  "name": "Physiotherapy Technicians and Assistants"
+                },
+                {
+                  "code": "3256",
+                  "name": "Medical Assistants"
+                },
+                {
+                  "code": "3257",
+                  "name": "Environmental and Occupational Health Inspectors and Associates"
+                },
+                {
+                  "code": "3258",
+                  "name": "Ambulance Workers"
+                },
+                {
+                  "code": "3259",
+                  "name": "Other Health Associate Professionals Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "33",
+          "name": "Business and Administration Associate Professionals",
+          "minor_groups": [
+            {
+              "code": "331",
+              "name": "Financial and Mathematical Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3311",
+                  "name": "Securities and Finance Dealers and Brokers"
+                },
+                {
+                  "code": "3312",
+                  "name": "Credit and Loans Officers"
+                },
+                {
+                  "code": "3313",
+                  "name": "Accounting Associate Professionals"
+                },
+                {
+                  "code": "3314",
+                  "name": "Statistical, Mathematical and Related Associate Professionals"
+                },
+                {
+                  "code": "3315",
+                  "name": "Valuers and Loss Assessors"
+                }
+              ]
+            },
+            {
+              "code": "332",
+              "name": "Sales and Purchasing Agents and Brokers",
+              "unit_groups": [
+                {
+                  "code": "3321",
+                  "name": "Insurance Representatives"
+                },
+                {
+                  "code": "3322",
+                  "name": "Commercial Sales Representatives"
+                },
+                {
+                  "code": "3323",
+                  "name": "Buyers"
+                },
+                {
+                  "code": "3324",
+                  "name": "Trade Brokers"
+                }
+              ]
+            },
+            {
+              "code": "333",
+              "name": "Business Services Agents",
+              "unit_groups": [
+                {
+                  "code": "3331",
+                  "name": "Clearing and Forwarding Agents"
+                },
+                {
+                  "code": "3332",
+                  "name": "Conference and Event Planners"
+                },
+                {
+                  "code": "3333",
+                  "name": "Employment Agents and Contractors"
+                },
+                {
+                  "code": "3334",
+                  "name": "Real Estate Agents and Property Managers"
+                },
+                {
+                  "code": "3339",
+                  "name": "Business Services Agents Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "334",
+              "name": "Administrative and Specialized Secretaries",
+              "unit_groups": [
+                {
+                  "code": "3341",
+                  "name": "Office Supervisors"
+                },
+                {
+                  "code": "3342",
+                  "name": "Legal Secretaries"
+                },
+                {
+                  "code": "3343",
+                  "name": "Administrative and Executive Secretaries"
+                },
+                {
+                  "code": "3344",
+                  "name": "Medical Secretaries"
+                }
+              ]
+            },
+            {
+              "code": "335",
+              "name": "Government Regulatory Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3351",
+                  "name": "Customs and Border Inspectors"
+                },
+                {
+                  "code": "3352",
+                  "name": "Government Tax and Excise Officials"
+                },
+                {
+                  "code": "3353",
+                  "name": "Government Social Benefits Officials"
+                },
+                {
+                  "code": "3354",
+                  "name": "Government Licensing Officials"
+                },
+                {
+                  "code": "3355",
+                  "name": "Police Inspectors and Detectives"
+                },
+                {
+                  "code": "3359",
+                  "name": "Government Regulatory Associate Professionals Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "34",
+          "name": "Legal, Social, Cultural and Related Associate Professionals",
+          "minor_groups": [
+            {
+              "code": "341",
+              "name": "Legal, Social and Religious Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3411",
+                  "name": "Legal and Related Associate Professionals"
+                },
+                {
+                  "code": "3412",
+                  "name": "Social Work Associate Professionals"
+                },
+                {
+                  "code": "3413",
+                  "name": "Religious Associate Professionals"
+                }
+              ]
+            },
+            {
+              "code": "342",
+              "name": "Sports and Fitness Workers",
+              "unit_groups": [
+                {
+                  "code": "3421",
+                  "name": "Athletes and Sports Players"
+                },
+                {
+                  "code": "3422",
+                  "name": "Sports Coaches, Instructors and Officials"
+                },
+                {
+                  "code": "3423",
+                  "name": "Fitness and Recreation Instructors and Programme Leaders"
+                }
+              ]
+            },
+            {
+              "code": "343",
+              "name": "Artistic, Cultural and Culinary Associate Professionals",
+              "unit_groups": [
+                {
+                  "code": "3431",
+                  "name": "Photographers"
+                },
+                {
+                  "code": "3432",
+                  "name": "Interior Designers and Decorators"
+                },
+                {
+                  "code": "3433",
+                  "name": "Gallery, Museum and Library Technicians"
+                },
+                {
+                  "code": "3434",
+                  "name": "Chefs"
+                },
+                {
+                  "code": "3435",
+                  "name": "Other Artistic and Cultural Associate Professionals"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "35",
+          "name": "Information and Communications Technicians",
+          "minor_groups": [
+            {
+              "code": "351",
+              "name": "Information and Communications Technology Operations and User Support Technicians",
+              "unit_groups": [
+                {
+                  "code": "3511",
+                  "name": "Information and Communications Technology Operations Technicians"
+                },
+                {
+                  "code": "3512",
+                  "name": "Information and Communications Technology User Support Technicians"
+                },
+                {
+                  "code": "3513",
+                  "name": "Computer Network and Systems Technicians"
+                },
+                {
+                  "code": "3514",
+                  "name": "Web Technicians"
+                }
+              ]
+            },
+            {
+              "code": "352",
+              "name": "Telecommunications and Broadcasting Technicians",
+              "unit_groups": [
+                {
+                  "code": "3521",
+                  "name": "Broadcasting and Audiovisual Technicians"
+                },
+                {
+                  "code": "3522",
+                  "name": "Telecommunications Engineering Technicians"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4",
+      "name": "Clerical Support Workers",
+      "sub_major_groups": [
+        {
+          "code": "41",
+          "name": "General and Keyboard Clerks",
+          "minor_groups": [
+            {
+              "code": "411",
+              "name": "General Office Clerks",
+              "unit_groups": [
+                {
+                  "code": "4110",
+                  "name": "General Office Clerks"
+                }
+              ]
+            },
+            {
+              "code": "412",
+              "name": "Secretaries(general)",
+              "unit_groups": [
+                {
+                  "code": "4120",
+                  "name": "Secretaries (general)"
+                }
+              ]
+            },
+            {
+              "code": "413",
+              "name": "Keyboard Operators",
+              "unit_groups": [
+                {
+                  "code": "4131",
+                  "name": "Typists and Word Processing Operators"
+                },
+                {
+                  "code": "4132",
+                  "name": "Data Entry Clerks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "42",
+          "name": "Customer Services Clerks",
+          "minor_groups": [
+            {
+              "code": "421",
+              "name": "Tellers, Money Collectors and Related Clerks",
+              "unit_groups": [
+                {
+                  "code": "4211",
+                  "name": "Bank Tellers and Related Clerks"
+                },
+                {
+                  "code": "4212",
+                  "name": "Bookmakers, Croupiers and Related Gaming Workers"
+                },
+                {
+                  "code": "4213",
+                  "name": "Pawnbrokers and Money-lenders"
+                },
+                {
+                  "code": "4214",
+                  "name": "Debt Collectors and Related Workers"
+                }
+              ]
+            },
+            {
+              "code": "422",
+              "name": "Client Information Workers",
+              "unit_groups": [
+                {
+                  "code": "4221",
+                  "name": "Travel Consultants and Clerks"
+                },
+                {
+                  "code": "4222",
+                  "name": "Contact Centre Information Clerks"
+                },
+                {
+                  "code": "4223",
+                  "name": "Telephone Switchboard Operators"
+                },
+                {
+                  "code": "4224",
+                  "name": "Hotel Receptionists"
+                },
+                {
+                  "code": "4225",
+                  "name": "Inquiry Clerks"
+                },
+                {
+                  "code": "4226",
+                  "name": "Receptionists (general)"
+                },
+                {
+                  "code": "4227",
+                  "name": "Survey and Market Research Interviewers"
+                },
+                {
+                  "code": "4229",
+                  "name": "Client Information Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "43",
+          "name": "Numerical and Material Recording Clerks",
+          "minor_groups": [
+            {
+              "code": "431",
+              "name": "Numerical Clerks",
+              "unit_groups": [
+                {
+                  "code": "4311",
+                  "name": "Accounting and Bookkeeping Clerks"
+                },
+                {
+                  "code": "4312",
+                  "name": "Statistical, Finance and Insurance Clerks"
+                },
+                {
+                  "code": "4313",
+                  "name": "Payroll Clerks"
+                }
+              ]
+            },
+            {
+              "code": "432",
+              "name": "Material Recording and Transport Clerks",
+              "unit_groups": [
+                {
+                  "code": "4321",
+                  "name": "Stock Clerks"
+                },
+                {
+                  "code": "4322",
+                  "name": "Production Clerks"
+                },
+                {
+                  "code": "4323",
+                  "name": "Transport Clerks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "44",
+          "name": "Other Clerical Support Workers",
+          "minor_groups": [
+            {
+              "code": "441",
+              "name": "Other Clerical Support Workers",
+              "unit_groups": [
+                {
+                  "code": "4411",
+                  "name": "Library Clerks"
+                },
+                {
+                  "code": "4412",
+                  "name": "Mail Carriers and Sorting Clerks"
+                },
+                {
+                  "code": "4413",
+                  "name": "Coding, Proofreading and Related Clerks"
+                },
+                {
+                  "code": "4414",
+                  "name": "Scribes and Related Workers"
+                },
+                {
+                  "code": "4415",
+                  "name": "Filing and Copying Clerks"
+                },
+                {
+                  "code": "4416",
+                  "name": "Personnel Clerks"
+                },
+                {
+                  "code": "4419",
+                  "name": "Other Clerical Support Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5",
+      "name": "Services and Sales Workers",
+      "sub_major_groups": [
+        {
+          "code": "51",
+          "name": "Personal Services Workers",
+          "minor_groups": [
+            {
+              "code": "511",
+              "name": "Travel Attendants, Conductors and Guides",
+              "unit_groups": [
+                {
+                  "code": "5111",
+                  "name": "Travel Attendants and Travel Stewards"
+                },
+                {
+                  "code": "5112",
+                  "name": "Transport Conductors"
+                },
+                {
+                  "code": "5113",
+                  "name": "Travel Guides"
+                }
+              ]
+            },
+            {
+              "code": "512",
+              "name": "Cooks",
+              "unit_groups": [
+                {
+                  "code": "5120",
+                  "name": "Cooks"
+                }
+              ]
+            },
+            {
+              "code": "513",
+              "name": "Waiters and Bartenders",
+              "unit_groups": [
+                {
+                  "code": "5131",
+                  "name": "Waiters"
+                },
+                {
+                  "code": "5132",
+                  "name": "Bartenders"
+                }
+              ]
+            },
+            {
+              "code": "514",
+              "name": "Hairdressers, Beauticians and Related Workers",
+              "unit_groups": [
+                {
+                  "code": "5141",
+                  "name": "Hairdressers"
+                },
+                {
+                  "code": "5142",
+                  "name": "Beauticians and Related Workers"
+                }
+              ]
+            },
+            {
+              "code": "515",
+              "name": "Building and Housekeeping Supervisors",
+              "unit_groups": [
+                {
+                  "code": "5151",
+                  "name": "Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments"
+                },
+                {
+                  "code": "5152",
+                  "name": "Domestic Housekeepers"
+                },
+                {
+                  "code": "5153",
+                  "name": "Building Caretakers"
+                }
+              ]
+            },
+            {
+              "code": "516",
+              "name": "Other Personal Services Workers",
+              "unit_groups": [
+                {
+                  "code": "5161",
+                  "name": "Astrologers, Fortune-tellers and Related Workers"
+                },
+                {
+                  "code": "5162",
+                  "name": "Companions and Valets"
+                },
+                {
+                  "code": "5163",
+                  "name": "Undertakers and Embalmers"
+                },
+                {
+                  "code": "5164",
+                  "name": "Pet Groomers and Animal Care Workers"
+                },
+                {
+                  "code": "5165",
+                  "name": "Driving Instructors"
+                },
+                {
+                  "code": "5169",
+                  "name": "Personal Services Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "52",
+          "name": "Sales Workers",
+          "minor_groups": [
+            {
+              "code": "521",
+              "name": "Street and Market Salespersons",
+              "unit_groups": [
+                {
+                  "code": "5211",
+                  "name": "Stall and Market Salespersons"
+                },
+                {
+                  "code": "5212",
+                  "name": "Street Food Salespersons"
+                }
+              ]
+            },
+            {
+              "code": "522",
+              "name": "Shop Salespersons",
+              "unit_groups": [
+                {
+                  "code": "5221",
+                  "name": "Shopkeepers"
+                },
+                {
+                  "code": "5222",
+                  "name": "Shop Supervisors"
+                },
+                {
+                  "code": "5223",
+                  "name": "Shop Sales Assistants"
+                }
+              ]
+            },
+            {
+              "code": "523",
+              "name": "Cashiers and Ticket Clerks",
+              "unit_groups": [
+                {
+                  "code": "5230",
+                  "name": "Cashiers and Ticket Clerks"
+                }
+              ]
+            },
+            {
+              "code": "524",
+              "name": "Other Sales Workers",
+              "unit_groups": [
+                {
+                  "code": "5241",
+                  "name": "Fashion and Other Models"
+                },
+                {
+                  "code": "5242",
+                  "name": "Sales Demonstrators"
+                },
+                {
+                  "code": "5243",
+                  "name": "Door-to-door Salespersons"
+                },
+                {
+                  "code": "5244",
+                  "name": "Contact Centre Salespersons"
+                },
+                {
+                  "code": "5245",
+                  "name": "Service Station Attendants"
+                },
+                {
+                  "code": "5246",
+                  "name": "Food Service Counter Attendants"
+                },
+                {
+                  "code": "5249",
+                  "name": "Sales Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "53",
+          "name": "Personal Care Workers",
+          "minor_groups": [
+            {
+              "code": "531",
+              "name": "Child Care Workers and Teachers’ Aides",
+              "unit_groups": [
+                {
+                  "code": "5311",
+                  "name": "Child Care Workers"
+                },
+                {
+                  "code": "5312",
+                  "name": "Teachers’ Aides"
+                }
+              ]
+            },
+            {
+              "code": "532",
+              "name": "Personal Care Workers in Health Services",
+              "unit_groups": [
+                {
+                  "code": "5321",
+                  "name": "Health Care Assistants"
+                },
+                {
+                  "code": "5322",
+                  "name": "Home-based Personal Care Workers"
+                },
+                {
+                  "code": "5329",
+                  "name": "Personal Care Workers in Health Services Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "54",
+          "name": "Protective Services Workers",
+          "minor_groups": [
+            {
+              "code": "541",
+              "name": "Protective Services Workers",
+              "unit_groups": [
+                {
+                  "code": "5411",
+                  "name": "Firefighters"
+                },
+                {
+                  "code": "5412",
+                  "name": "Police Officers"
+                },
+                {
+                  "code": "5413",
+                  "name": "Prison Guards"
+                },
+                {
+                  "code": "5414",
+                  "name": "Security Guards"
+                },
+                {
+                  "code": "5419",
+                  "name": "Protective Services Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6",
+      "name": "Skilled Agricultural, Forestry and Fishery Workers",
+      "sub_major_groups": [
+        {
+          "code": "61",
+          "name": "Market-oriented Skilled Agricultural Workers",
+          "minor_groups": [
+            {
+              "code": "611",
+              "name": "MarketGardenersandCropGrowers",
+              "unit_groups": [
+                {
+                  "code": "6111",
+                  "name": "Field Crop and Vegetable Growers"
+                },
+                {
+                  "code": "6112",
+                  "name": "Tree and Shrub Crop Growers"
+                },
+                {
+                  "code": "6113",
+                  "name": "Gardeners; Horticultural and Nursery Growers"
+                },
+                {
+                  "code": "6114",
+                  "name": "Mixed Crop Growers"
+                }
+              ]
+            },
+            {
+              "code": "612",
+              "name": "Animal Producers",
+              "unit_groups": [
+                {
+                  "code": "6121",
+                  "name": "Livestock and Dairy Producers"
+                },
+                {
+                  "code": "6122",
+                  "name": "Poultry Producers"
+                },
+                {
+                  "code": "6123",
+                  "name": "Apiarists and Sericulturists"
+                },
+                {
+                  "code": "6129",
+                  "name": "Animal Producers Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "613",
+              "name": "MixedCropandAnimalProducers",
+              "unit_groups": [
+                {
+                  "code": "6130",
+                  "name": "Mixed Crop and Animal Producers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "62",
+          "name": "Market-oriented Skilled Forestry, Fishery and Hunting Workers",
+          "minor_groups": [
+            {
+              "code": "621",
+              "name": "Forestry and Related Workers",
+              "unit_groups": [
+                {
+                  "code": "6210",
+                  "name": "Forestry and Related Workers"
+                }
+              ]
+            },
+            {
+              "code": "622",
+              "name": "Fishery Workers, Hunters and Trappers",
+              "unit_groups": [
+                {
+                  "code": "6221",
+                  "name": "Aquaculture Workers"
+                },
+                {
+                  "code": "6222",
+                  "name": "Inland and Coastal Waters Fishery Workers"
+                },
+                {
+                  "code": "6223",
+                  "name": "Deep-sea Fishery Workers"
+                },
+                {
+                  "code": "6224",
+                  "name": "Hunters and Trappers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "63",
+          "name": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+          "minor_groups": [
+            {
+              "code": "631",
+              "name": "Subsistence Crop Farmers",
+              "unit_groups": [
+                {
+                  "code": "6310",
+                  "name": "Subsistence Crop Farmers"
+                }
+              ]
+            },
+            {
+              "code": "632",
+              "name": "Subsistence Livestock Farmers",
+              "unit_groups": [
+                {
+                  "code": "6320",
+                  "name": "Subsistence Livestock Farmers"
+                }
+              ]
+            },
+            {
+              "code": "633",
+              "name": "Subsistence Mixed Crop and Livestock Farmers",
+              "unit_groups": [
+                {
+                  "code": "6330",
+                  "name": "Subsistence Mixed Crop and Livestock Farmers"
+                }
+              ]
+            },
+            {
+              "code": "634",
+              "name": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+              "unit_groups": [
+                {
+                  "code": "6340",
+                  "name": "Subsistence Fishers, Hunters, Trappers and Gatherers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7",
+      "name": "Craft and Related Trades Workers",
+      "sub_major_groups": [
+        {
+          "code": "71",
+          "name": "Building and Related Trades Workers (excluding Electricians)",
+          "minor_groups": [
+            {
+              "code": "711",
+              "name": "Building Frame and Related Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7111",
+                  "name": "House Builders"
+                },
+                {
+                  "code": "7112",
+                  "name": "Bricklayers and Related Workers"
+                },
+                {
+                  "code": "7113",
+                  "name": "Stonemasons, Stone Cutters, Spitters and Carvers"
+                },
+                {
+                  "code": "7114",
+                  "name": "Concrete Placers, Concrete Finishers and Related Workers"
+                },
+                {
+                  "code": "7115",
+                  "name": "Carpenters and Joiners"
+                },
+                {
+                  "code": "7119",
+                  "name": "Building Frame and Related Trades Workers Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "712",
+              "name": "Building Finishers and Related Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7121",
+                  "name": "Roofers"
+                },
+                {
+                  "code": "7122",
+                  "name": "Floor Layers and Tile Setters"
+                },
+                {
+                  "code": "7123",
+                  "name": "Plasterers"
+                },
+                {
+                  "code": "7124",
+                  "name": "Insulation Workers"
+                },
+                {
+                  "code": "7125",
+                  "name": "Glaziers"
+                },
+                {
+                  "code": "7126",
+                  "name": "Plumbers and Pipe Fitters"
+                },
+                {
+                  "code": "7127",
+                  "name": "Air Conditioning and Refrigeration Mechanics"
+                }
+              ]
+            },
+            {
+              "code": "713",
+              "name": "Painters, Building Structure Cleaners and Related Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7131",
+                  "name": "Painters and Related Workers"
+                },
+                {
+                  "code": "7132",
+                  "name": "Spray Painters and Varnishers"
+                },
+                {
+                  "code": "7133",
+                  "name": "Building Structure Cleaners"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "72",
+          "name": "Metal, Machinery and Related Trades Workers",
+          "minor_groups": [
+            {
+              "code": "721",
+              "name": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+              "unit_groups": [
+                {
+                  "code": "7211",
+                  "name": "Metal Moulders and Coremakers"
+                },
+                {
+                  "code": "7212",
+                  "name": "Welders and Flame Cutters"
+                },
+                {
+                  "code": "7213",
+                  "name": "Sheet Metal Workers"
+                },
+                {
+                  "code": "7214",
+                  "name": "Structural Metal Preparers and Erectors"
+                },
+                {
+                  "code": "7215",
+                  "name": "Riggers and Cable Splicers"
+                }
+              ]
+            },
+            {
+              "code": "722",
+              "name": "Blacksmiths, Toolmakers and Related Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7221",
+                  "name": "Blacksmiths, Hammersmiths and Forging Press Workers"
+                },
+                {
+                  "code": "7222",
+                  "name": "Toolmakers and Related Workers"
+                },
+                {
+                  "code": "7223",
+                  "name": "Metal Working Machine Tool Setters and Operators"
+                },
+                {
+                  "code": "7224",
+                  "name": "Metal Polishers, Wheel Grinders and Tool Sharpeners"
+                }
+              ]
+            },
+            {
+              "code": "723",
+              "name": "Machinery Mechanics and Repairers",
+              "unit_groups": [
+                {
+                  "code": "7231",
+                  "name": "Motor Vehicle Mechanics and Repairers"
+                },
+                {
+                  "code": "7232",
+                  "name": "Aircraft Engine Mechanics and Repairers"
+                },
+                {
+                  "code": "7233",
+                  "name": "Agricultural and Industrial Machinery Mechanics and Repairers"
+                },
+                {
+                  "code": "7234",
+                  "name": "Bicycle and Related Repairers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "73",
+          "name": "Handicraft and Printing Workers",
+          "minor_groups": [
+            {
+              "code": "731",
+              "name": "Handicraft Workers",
+              "unit_groups": [
+                {
+                  "code": "7311",
+                  "name": "Precision-instrument Makers and Repairers"
+                },
+                {
+                  "code": "7312",
+                  "name": "Musical Instrument Makers and Tuners"
+                },
+                {
+                  "code": "7313",
+                  "name": "Jewellery and Precious Metal Workers"
+                },
+                {
+                  "code": "7314",
+                  "name": "Potters and Related Workers"
+                },
+                {
+                  "code": "7315",
+                  "name": "Glass Makers, Cutters, Grinders and Finishers"
+                },
+                {
+                  "code": "7316",
+                  "name": "Singwriters, Decorative Painters, Engravers and Etchers"
+                },
+                {
+                  "code": "7317",
+                  "name": "Handicraft Workers in Wood, Basketry and Related Materials"
+                },
+                {
+                  "code": "7318",
+                  "name": "Handicraft Workers in Textile, Leather and Related Materials"
+                },
+                {
+                  "code": "7319",
+                  "name": "Handicraft Workers Not Elsewhere Classifed"
+                }
+              ]
+            },
+            {
+              "code": "732",
+              "name": "Printing Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7321",
+                  "name": "Pre-press Technicians"
+                },
+                {
+                  "code": "7322",
+                  "name": "Printers"
+                },
+                {
+                  "code": "7323",
+                  "name": "Print Finishing and Binding Workers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "74",
+          "name": "ElectricalandElectronicsTradesWorkers",
+          "minor_groups": [
+            {
+              "code": "741",
+              "name": "ElectricalEquipmentInstallersandRepairers",
+              "unit_groups": [
+                {
+                  "code": "7411",
+                  "name": "BuildingandRelatedElectricians"
+                },
+                {
+                  "code": "7412",
+                  "name": "Electrical Mechanics and Fitters"
+                },
+                {
+                  "code": "7413",
+                  "name": "Electrical Line Installers and Repairers"
+                }
+              ]
+            },
+            {
+              "code": "742",
+              "name": "ElectronicsandTelecommunicationsInstallersandRepairers",
+              "unit_groups": [
+                {
+                  "code": "7421",
+                  "name": "Electronics Mechanics and Servicers"
+                },
+                {
+                  "code": "7422",
+                  "name": "Information and Communications Technology Installers and Servicers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "75",
+          "name": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+          "minor_groups": [
+            {
+              "code": "751",
+              "name": "FoodProcessingandRelatedTradesWorkers",
+              "unit_groups": [
+                {
+                  "code": "7511",
+                  "name": "Butchers, Fishmongers and Related Food Preparers"
+                },
+                {
+                  "code": "7512",
+                  "name": "Bakers, Pastry-cooks and Confectionery Makers"
+                },
+                {
+                  "code": "7513",
+                  "name": "Dairy Products Makers"
+                },
+                {
+                  "code": "7514",
+                  "name": "Fruit, Vegetable and Related Preservers"
+                },
+                {
+                  "code": "7515",
+                  "name": "Food and Beverage Tasters and Graders"
+                },
+                {
+                  "code": "7516",
+                  "name": "Tobacco Preparers and Tobacco Products Makers"
+                }
+              ]
+            },
+            {
+              "code": "752",
+              "name": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7521",
+                  "name": "Wood Treaters"
+                },
+                {
+                  "code": "7522",
+                  "name": "Cabinet-makers and Related Workers"
+                },
+                {
+                  "code": "7523",
+                  "name": "Woodworking Machine Tool Setters and Operators"
+                }
+              ]
+            },
+            {
+              "code": "753",
+              "name": "Garment and Related Trades Workers",
+              "unit_groups": [
+                {
+                  "code": "7531",
+                  "name": "Tailors, Dressmakers, Furriers and Hatters"
+                },
+                {
+                  "code": "7532",
+                  "name": "Garment and Related Patternmakers and Cutters"
+                },
+                {
+                  "code": "7533",
+                  "name": "Sewing, Embroidery and Related Workers"
+                },
+                {
+                  "code": "7534",
+                  "name": "Upholsterers and Related Workers"
+                },
+                {
+                  "code": "7535",
+                  "name": "Pelt Dressers, Tanners and Fellmongers"
+                },
+                {
+                  "code": "7536",
+                  "name": "Shoemakers and Related Workers"
+                }
+              ]
+            },
+            {
+              "code": "754",
+              "name": "Other Craft and Related Workers",
+              "unit_groups": [
+                {
+                  "code": "7541",
+                  "name": "Underwater Divers"
+                },
+                {
+                  "code": "7542",
+                  "name": "Shotfirers and Blasters"
+                },
+                {
+                  "code": "7543",
+                  "name": "Product Graders and Testers (excluding Foods and Beverages)"
+                },
+                {
+                  "code": "7544",
+                  "name": "Fumigators and Other Pest and Weed Controllers"
+                },
+                {
+                  "code": "7549",
+                  "name": "Craft and Related Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "8",
+      "name": "Plant and Machine Operators and Assemblers",
+      "sub_major_groups": [
+        {
+          "code": "81",
+          "name": "Stationary Plant and Machine Operators",
+          "minor_groups": [
+            {
+              "code": "811",
+              "name": "MiningandMineralProcessingPlantOperators",
+              "unit_groups": [
+                {
+                  "code": "8111",
+                  "name": "Miners and Quarriers"
+                },
+                {
+                  "code": "8112",
+                  "name": "Mineral and Stone Processing Plant Operators"
+                },
+                {
+                  "code": "8113",
+                  "name": "Well Drillers and Borers and Related Workers"
+                },
+                {
+                  "code": "8114",
+                  "name": "Cement, Stone and Other Mineral Products Machine Operators"
+                }
+              ]
+            },
+            {
+              "code": "812",
+              "name": "Metal Processing and Finishing Plant Operators",
+              "unit_groups": [
+                {
+                  "code": "8121",
+                  "name": "Metal Processing Plant Operators"
+                },
+                {
+                  "code": "8122",
+                  "name": "Metal Finishing, Plating and Coating Machine Operators"
+                }
+              ]
+            },
+            {
+              "code": "813",
+              "name": "ChemicalandPhotographicProductsPlantandMachineOperators",
+              "unit_groups": [
+                {
+                  "code": "8131",
+                  "name": "Chemical Products Plant and Machine Operators"
+                },
+                {
+                  "code": "8132",
+                  "name": "Photographic Products Machine Operators"
+                }
+              ]
+            },
+            {
+              "code": "814",
+              "name": "Rubber, Plastic and Paper Products Machine Operators",
+              "unit_groups": [
+                {
+                  "code": "8141",
+                  "name": "Rubber Products Machine Operators"
+                },
+                {
+                  "code": "8142",
+                  "name": "Plastic Products Machine Operators"
+                },
+                {
+                  "code": "8143",
+                  "name": "Paper Products Machine Operators"
+                }
+              ]
+            },
+            {
+              "code": "815",
+              "name": "Textile, Fur and Leather Products Machine Operators",
+              "unit_groups": [
+                {
+                  "code": "8151",
+                  "name": "Fibre Preparing, Spinning and Winding Machine Operators"
+                },
+                {
+                  "code": "8152",
+                  "name": "Weaving and Knitting Machine Operators"
+                },
+                {
+                  "code": "8153",
+                  "name": "Sewing Machine Operators"
+                },
+                {
+                  "code": "8154",
+                  "name": "Bleaching, Dyeing and Fabric Cleaning Machine Operators"
+                },
+                {
+                  "code": "8155",
+                  "name": "Fur and Leather Preparing Machine Operators"
+                },
+                {
+                  "code": "8156",
+                  "name": "Shoemaking and Related Machine Operators"
+                },
+                {
+                  "code": "8157",
+                  "name": "Laundry Machine Operators"
+                },
+                {
+                  "code": "8159",
+                  "name": "Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "816",
+              "name": "Food and Related Products Machine Operators",
+              "unit_groups": [
+                {
+                  "code": "8160",
+                  "name": "Food and Related Products Machine Operators"
+                }
+              ]
+            },
+            {
+              "code": "817",
+              "name": "Wood Processing and Papermaking Plant Operators",
+              "unit_groups": [
+                {
+                  "code": "8171",
+                  "name": "Pulp and Papermaking Plant Operators"
+                },
+                {
+                  "code": "8172",
+                  "name": "Wood Processing Plant Operators"
+                }
+              ]
+            },
+            {
+              "code": "818",
+              "name": "Other Stationary Plant and Machine Operators",
+              "unit_groups": [
+                {
+                  "code": "8181",
+                  "name": "Glass and Ceramics Plant Operators"
+                },
+                {
+                  "code": "8182",
+                  "name": "Steam Engine and Boiler Operators"
+                },
+                {
+                  "code": "8183",
+                  "name": "Packing, Bottling and Labelling Machine Operators"
+                },
+                {
+                  "code": "8189",
+                  "name": "Stationary Plant and Machine Operators Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "82",
+          "name": "Assemblers",
+          "minor_groups": [
+            {
+              "code": "821",
+              "name": "Assemblers",
+              "unit_groups": [
+                {
+                  "code": "8211",
+                  "name": "Mechanical Machinery Assemblers"
+                },
+                {
+                  "code": "8212",
+                  "name": "Electrical and Electronic Equipment Assemblers"
+                },
+                {
+                  "code": "8219",
+                  "name": "Assemblers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "83",
+          "name": "Drivers and Mobile Plant Operators",
+          "minor_groups": [
+            {
+              "code": "831",
+              "name": "Locomotive Engine Drivers and Related Workers",
+              "unit_groups": [
+                {
+                  "code": "8311",
+                  "name": "Locomotive Engine Drivers"
+                },
+                {
+                  "code": "8312",
+                  "name": "Railway Brake, Signal and Switch Operators"
+                }
+              ]
+            },
+            {
+              "code": "832",
+              "name": "Car, Van and Motorcycle Drivers",
+              "unit_groups": [
+                {
+                  "code": "8321",
+                  "name": "Motorcycle Drivers"
+                },
+                {
+                  "code": "8322",
+                  "name": "Car, Taxi and Van Drivers"
+                }
+              ]
+            },
+            {
+              "code": "833",
+              "name": "Heavy Truck and Bus Drivers",
+              "unit_groups": [
+                {
+                  "code": "8331",
+                  "name": "Bus and Tram Drivers"
+                },
+                {
+                  "code": "8332",
+                  "name": "Heavy Truck and Lorry Drivers"
+                }
+              ]
+            },
+            {
+              "code": "834",
+              "name": "Mobile Plant Operators",
+              "unit_groups": [
+                {
+                  "code": "8341",
+                  "name": "Mobile Farm and Forestry Plant Operators"
+                },
+                {
+                  "code": "8342",
+                  "name": "Earthmoving and Related Plant Operators"
+                },
+                {
+                  "code": "8343",
+                  "name": "Crane, Hoist and Related Plant Operators"
+                },
+                {
+                  "code": "8344",
+                  "name": "Lifting Truck Operators"
+                }
+              ]
+            },
+            {
+              "code": "835",
+              "name": "Ships’ Deck Crews and Related Workers",
+              "unit_groups": [
+                {
+                  "code": "8350",
+                  "name": "Ships’ Deck Crews and Related Workers"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "9",
+      "name": "Elementary Occupations",
+      "sub_major_groups": [
+        {
+          "code": "91",
+          "name": "Cleaners and Helpers",
+          "minor_groups": [
+            {
+              "code": "911",
+              "name": "Domestic, Hotel and Office Cleaners and Helpers",
+              "unit_groups": [
+                {
+                  "code": "9111",
+                  "name": "Domestic Cleaners and Helpers"
+                },
+                {
+                  "code": "9112",
+                  "name": "Cleaners and Helpers in Offices, Hotels and Other Establishments"
+                }
+              ]
+            },
+            {
+              "code": "912",
+              "name": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+              "unit_groups": [
+                {
+                  "code": "9121",
+                  "name": "Hand Launderers and Pressers"
+                },
+                {
+                  "code": "9122",
+                  "name": "Vehicle Cleaners"
+                },
+                {
+                  "code": "9123",
+                  "name": "Window Cleaners"
+                },
+                {
+                  "code": "9129",
+                  "name": "Other Cleaning Workers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "92",
+          "name": "Agricultural, Forestry and Fishery Labourers",
+          "minor_groups": [
+            {
+              "code": "921",
+              "name": "Agricultural, Forestry and Fishery Labourers",
+              "unit_groups": [
+                {
+                  "code": "9211",
+                  "name": "Crop Farm Labourers"
+                },
+                {
+                  "code": "9212",
+                  "name": "Livestock Farm Labourers"
+                },
+                {
+                  "code": "9213",
+                  "name": "Mixed Crop and Livestock Farm Labourers"
+                },
+                {
+                  "code": "9214",
+                  "name": "Garden and Horticultural Labourers"
+                },
+                {
+                  "code": "9215",
+                  "name": "Forestry Labourers"
+                },
+                {
+                  "code": "9216",
+                  "name": "Fishery and Aquaculture Labourers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "93",
+          "name": "Labourers in Mining, Construction, Manufacturing and Transport",
+          "minor_groups": [
+            {
+              "code": "931",
+              "name": "Mining and Construction Labourers",
+              "unit_groups": [
+                {
+                  "code": "9311",
+                  "name": "Mining and Quarrying Labourers"
+                },
+                {
+                  "code": "9312",
+                  "name": "Civil Engineering Labourers"
+                },
+                {
+                  "code": "9313",
+                  "name": "Building Construction Labourers"
+                }
+              ]
+            },
+            {
+              "code": "932",
+              "name": "Manufacturing Labourers",
+              "unit_groups": [
+                {
+                  "code": "9321",
+                  "name": "Hand Packers"
+                },
+                {
+                  "code": "9329",
+                  "name": "Manufacturing Labourers Not Elsewhere Classified"
+                }
+              ]
+            },
+            {
+              "code": "933",
+              "name": "Transport and Storage Labourers",
+              "unit_groups": [
+                {
+                  "code": "9331",
+                  "name": "Hand and Pedal Vehicle Drivers"
+                },
+                {
+                  "code": "9332",
+                  "name": "Drivers of Animal-drawn Vehicles and Machinery"
+                },
+                {
+                  "code": "9333",
+                  "name": "Freight Handlers"
+                },
+                {
+                  "code": "9334",
+                  "name": "Shelf Fillers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "94",
+          "name": "Food Preparation Assistants",
+          "minor_groups": [
+            {
+              "code": "941",
+              "name": "Food Preparation Assistants",
+              "unit_groups": [
+                {
+                  "code": "9411",
+                  "name": "Fast Food Preparers"
+                },
+                {
+                  "code": "9412",
+                  "name": "Kitchen Helpers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "95",
+          "name": "Street and Related Sales and Services Workers",
+          "minor_groups": [
+            {
+              "code": "951",
+              "name": "Street and Related Services Workers",
+              "unit_groups": [
+                {
+                  "code": "9510",
+                  "name": "Street and Related Services Workers"
+                }
+              ]
+            },
+            {
+              "code": "952",
+              "name": "Street Vendors (excluding Food)",
+              "unit_groups": [
+                {
+                  "code": "9520",
+                  "name": "Street Vendors (excluding Food)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "96",
+          "name": "Refuse Workers and Other Elementary Workers",
+          "minor_groups": [
+            {
+              "code": "961",
+              "name": "Refuse Workers",
+              "unit_groups": [
+                {
+                  "code": "9611",
+                  "name": "Garbage and Recycling Collectors"
+                },
+                {
+                  "code": "9612",
+                  "name": "Refuse Sorters"
+                },
+                {
+                  "code": "9613",
+                  "name": "Sweepers and Related Labourers"
+                }
+              ]
+            },
+            {
+              "code": "962",
+              "name": "Other Elementary Workers",
+              "unit_groups": [
+                {
+                  "code": "9621",
+                  "name": "Messengers, Package Deliverers and Luggage Porters"
+                },
+                {
+                  "code": "9622",
+                  "name": "Odd-job Persons"
+                },
+                {
+                  "code": "9623",
+                  "name": "Meter Readers and Vending-machine Collectors"
+                },
+                {
+                  "code": "9624",
+                  "name": "Water and Firewood Collectors"
+                },
+                {
+                  "code": "9629",
+                  "name": "Elementary Workers Not Elsewhere Classified"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "0",
+      "name": "Armed Forces Occupations",
+      "sub_major_groups": [
+        {
+          "code": "01",
+          "name": "Commissioned Armed Forces Officers",
+          "minor_groups": [
+            {
+              "code": "011",
+              "name": "Commissioned Armed Forces Officers",
+              "unit_groups": [
+                {
+                  "code": "0110",
+                  "name": "Commissioned Armed Forces Officers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "02",
+          "name": "Non-commissioned Armed Forces Officers",
+          "minor_groups": [
+            {
+              "code": "021",
+              "name": "Non-commissioned Armed Forces Officers",
+              "unit_groups": [
+                {
+                  "code": "0210",
+                  "name": "Non-commissioned Armed Forces Officers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "03",
+          "name": "Armed Forces Occupations, Other Ranks",
+          "minor_groups": [
+            {
+              "code": "031",
+              "name": "Armed Forces Occupations, Other Ranks",
+              "unit_groups": [
+                {
+                  "code": "0310",
+                  "name": "Armed Forces Occupations, Other Ranks"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

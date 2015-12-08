@@ -1,0 +1,2847 @@
+{
+  "name": "Clasificación Internacional Unifome de Ocupaciones",
+  "major_groups": [
+    {
+      "code": "1",
+      "name": "Directores y gerentes",
+      "sub_major_groups": [
+        {
+          "code": "11",
+          "name": "Directores ejecutivos, personal directivo de la administración pública y miembros del poder ejecutivo y de los cuerpos legislativos",
+          "minor_groups": [
+            {
+              "code": "111",
+              "name": "Miembros del poder ejecutivo y de los cuerpos legislativos",
+              "unit_groups": [
+                {
+                  "code": "1111",
+                  "name": "Miembros del poder legislativo"
+                },
+                {
+                  "code": "1112",
+                  "name": "Personal directivo de la administración pública"
+                },
+                {
+                  "code": "1113",
+                  "name": "Jefes de pequeñas poblaciones"
+                },
+                {
+                  "code": "1114",
+                  "name": "Dirigentes de organizaciones que presentan un interés especial"
+                }
+              ]
+            },
+            {
+              "code": "112",
+              "name": "Directores generales y gerentes generales",
+              "unit_groups": [
+                {
+                  "code": "1120",
+                  "name": "Directores generales y gerentes generales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "12",
+          "name": "Directores administradores y comerciales",
+          "minor_groups": [
+            {
+              "code": "121",
+              "name": "Directores de administración y servicios",
+              "unit_groups": [
+                {
+                  "code": "1211",
+                  "name": "Directores  nancieros"
+                },
+                {
+                  "code": "1212",
+                  "name": "Directores de recursos humanos"
+                },
+                {
+                  "code": "1213",
+                  "name": "Directores de políticas y plani cación"
+                },
+                {
+                  "code": "1219",
+                  "name": "Directores de administración y servicios no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "122",
+              "name": "Directores de ventas, comercialización y desarrollo",
+              "unit_groups": [
+                {
+                  "code": "1221",
+                  "name": "Directores de ventas y comercialización"
+                },
+                {
+                  "code": "1222",
+                  "name": "Directores de publicidad y relaciones públicas"
+                },
+                {
+                  "code": "1223",
+                  "name": "Directores de investigación y desarrollo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "13",
+          "name": "Directores y gerentes de producción y operaciones",
+          "minor_groups": [
+            {
+              "code": "131",
+              "name": "Directores de producción agropecuaria, silvicultura y pesca",
+              "unit_groups": [
+                {
+                  "code": "1311",
+                  "name": "Directores de producción agropecuaria y silvicultura"
+                },
+                {
+                  "code": "1312",
+                  "name": "Directores de producción de piscicultura y pesca"
+                }
+              ]
+            },
+            {
+              "code": "132",
+              "name": "Directores de industrias manufactureras, de minería, construcción y distribución",
+              "unit_groups": [
+                {
+                  "code": "1321",
+                  "name": "Directores de industrias manufactureras"
+                },
+                {
+                  "code": "1322",
+                  "name": "Directores de explotaciones de minería"
+                },
+                {
+                  "code": "1323",
+                  "name": "Directores de empresas de construcción"
+                },
+                {
+                  "code": "1324",
+                  "name": "Directores de empresas de abastecimiento, distribución y afines"
+                }
+              ]
+            },
+            {
+              "code": "133",
+              "name": "Directores de servicios de tecnología de la información y las comunicaciones",
+              "unit_groups": [
+                {
+                  "code": "1330",
+                  "name": "Directores de servicios de tecnología de la información y las comunicaciones"
+                }
+              ]
+            },
+            {
+              "code": "134",
+              "name": "Directores y gerentes de servicios profesionales",
+              "unit_groups": [
+                {
+                  "code": "1341",
+                  "name": "Directores de servicios de cuidados infantiles"
+                },
+                {
+                  "code": "1342",
+                  "name": "Directores de servicios de salud"
+                },
+                {
+                  "code": "1343",
+                  "name": "Directores de servicios de cuidado de las personas de edad"
+                },
+                {
+                  "code": "1344",
+                  "name": "Directores de servicios de bienestar social"
+                },
+                {
+                  "code": "1345",
+                  "name": "Directores de servicios de educación"
+                },
+                {
+                  "code": "1346",
+                  "name": "Gerentes de sucursales de bancos, de servicios  nancieros y de seguros"
+                },
+                {
+                  "code": "1349",
+                  "name": "Directores y gerentes de servicios profesionales no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "14",
+          "name": "Gerentes de hoteles, restaurantes, comercios y otros servicios",
+          "minor_groups": [
+            {
+              "code": "141",
+              "name": "Gerentes de hoteles y restaurantes",
+              "unit_groups": [
+                {
+                  "code": "1411",
+                  "name": "Gerentes de hoteles"
+                },
+                {
+                  "code": "1412",
+                  "name": "Gerentes de restaurantes"
+                }
+              ]
+            },
+            {
+              "code": "142",
+              "name": "Gerentes de comercios al por mayor y al por menor",
+              "unit_groups": [
+                {
+                  "code": "1420",
+                  "name": "Gerentes de comercios al por mayor y al por menor"
+                }
+              ]
+            },
+            {
+              "code": "143",
+              "name": "Otros gerentes de servicios",
+              "unit_groups": [
+                {
+                  "code": "1431",
+                  "name": "Gerentes de centros deportivos, de esparcimiento y culturales"
+                },
+                {
+                  "code": "1439",
+                  "name": "Gerentes de servicios no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "2",
+      "name": "Profesionales científicos e intelectuales",
+      "sub_major_groups": [
+        {
+          "code": "21",
+          "name": "Profesionales de las ciencias y de la ingeniería",
+          "minor_groups": [
+            {
+              "code": "211",
+              "name": "Físicos, químicos y afines",
+              "unit_groups": [
+                {
+                  "code": "2111",
+                  "name": "Físicos y astrónomos"
+                },
+                {
+                  "code": "2112",
+                  "name": "Meteorólogos"
+                },
+                {
+                  "code": "2113",
+                  "name": "Químicos"
+                },
+                {
+                  "code": "2114",
+                  "name": "Geólogos y geofísicos"
+                }
+              ]
+            },
+            {
+              "code": "212",
+              "name": "Matemáticos, actuarios y estadísticos",
+              "unit_groups": [
+                {
+                  "code": "2120",
+                  "name": "Matemáticos, actuarios y estadísticos"
+                }
+              ]
+            },
+            {
+              "code": "213",
+              "name": "Profesionales en ciencias biológicas",
+              "unit_groups": [
+                {
+                  "code": "2131",
+                  "name": "Biólogos, botánicos, zoólogos y afines"
+                },
+                {
+                  "code": "2132",
+                  "name": "Agrónomos y afines"
+                },
+                {
+                  "code": "2133",
+                  "name": "Profesionales de la protección medioambiental"
+                }
+              ]
+            },
+            {
+              "code": "214",
+              "name": "Ingenieros (excluyendo electrotecnólogos)",
+              "unit_groups": [
+                {
+                  "code": "2141",
+                  "name": "Ingenieros industriales y de producción"
+                },
+                {
+                  "code": "2142",
+                  "name": "Ingenieros civiles"
+                },
+                {
+                  "code": "2143",
+                  "name": "Ingenieros medioambientales"
+                },
+                {
+                  "code": "2144",
+                  "name": "Ingenieros mecánicos"
+                },
+                {
+                  "code": "2145",
+                  "name": "Ingenieros químicos"
+                },
+                {
+                  "code": "2146",
+                  "name": "Ingenieros de minas, metalúrgicos y afines"
+                },
+                {
+                  "code": "2149",
+                  "name": "Ingenieros no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "215",
+              "name": "Ingenieros en electrotecnología",
+              "unit_groups": [
+                {
+                  "code": "2151",
+                  "name": "Ingenieros electricistas"
+                },
+                {
+                  "code": "2152",
+                  "name": "Ingenieros electrónicos"
+                },
+                {
+                  "code": "2153",
+                  "name": "Ingenieros en telecomunicaciones"
+                }
+              ]
+            },
+            {
+              "code": "216",
+              "name": "Arquitectos, urbanistas, agrimensores y diseñadores",
+              "unit_groups": [
+                {
+                  "code": "2161",
+                  "name": "Arquitectos"
+                },
+                {
+                  "code": "2162",
+                  "name": "Arquitectos paisajistas"
+                },
+                {
+                  "code": "2163",
+                  "name": "Diseñadores de productos y de prendas"
+                },
+                {
+                  "code": "2164",
+                  "name": "Urbanistas e ingenieros de tránsito"
+                },
+                {
+                  "code": "2165",
+                  "name": "Cartógrafos y agrimensores"
+                },
+                {
+                  "code": "2166",
+                  "name": "Diseñadores gráficos y multimedia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "22",
+          "name": "Profesionales de la salud",
+          "minor_groups": [
+            {
+              "code": "221",
+              "name": "Médicos",
+              "unit_groups": [
+                {
+                  "code": "2211",
+                  "name": "Médicos generales"
+                },
+                {
+                  "code": "2212",
+                  "name": "Médicos especialistas"
+                }
+              ]
+            },
+            {
+              "code": "222",
+              "name": "Profesionales de enfermería y partería",
+              "unit_groups": [
+                {
+                  "code": "2221",
+                  "name": "Profesionales de enfermería"
+                },
+                {
+                  "code": "2222",
+                  "name": "Profesionales de partería"
+                }
+              ]
+            },
+            {
+              "code": "223",
+              "name": "Profesionales de medicina tradicional y alternativa",
+              "unit_groups": [
+                {
+                  "code": "2230",
+                  "name": "Profesionales de medicina tradicional y alternativa"
+                }
+              ]
+            },
+            {
+              "code": "224",
+              "name": "Practicantes paramédicos",
+              "unit_groups": [
+                {
+                  "code": "2240",
+                  "name": "Practicantes paramédicos"
+                }
+              ]
+            },
+            {
+              "code": "225",
+              "name": "Veterinarios",
+              "unit_groups": [
+                {
+                  "code": "2250",
+                  "name": "Veterinarios"
+                }
+              ]
+            },
+            {
+              "code": "226",
+              "name": "Otros",
+              "unit_groups": [
+                {
+                  "code": "2261",
+                  "name": "Dentistas profesionales de la salud"
+                },
+                {
+                  "code": "2262",
+                  "name": "Farmacéuticos"
+                },
+                {
+                  "code": "2263",
+                  "name": "Profesionales de la salud y la higiene laboral y ambiental"
+                },
+                {
+                  "code": "2264",
+                  "name": "Fisioterapeutas"
+                },
+                {
+                  "code": "2265",
+                  "name": "Dietistas y nutricionistas"
+                },
+                {
+                  "code": "2266",
+                  "name": "Audiólogos y logopedas"
+                },
+                {
+                  "code": "2267",
+                  "name": "Optometristas"
+                },
+                {
+                  "code": "2269",
+                  "name": "Profesionales de la salud no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "23",
+          "name": "Profesionales de la enseñanza",
+          "minor_groups": [
+            {
+              "code": "231",
+              "name": "Profesores de universidades y de la enseñanza superior",
+              "unit_groups": [
+                {
+                  "code": "2310",
+                  "name": "Profesores de universidades y de la enseñanza superior"
+                }
+              ]
+            },
+            {
+              "code": "232",
+              "name": "Profesores de formación profesional",
+              "unit_groups": [
+                {
+                  "code": "2320",
+                  "name": "Profesores de formación profesional"
+                }
+              ]
+            },
+            {
+              "code": "233",
+              "name": "Profesores de enseñanza secundaria",
+              "unit_groups": [
+                {
+                  "code": "2330",
+                  "name": "Profesores de enseñanza secundaria"
+                }
+              ]
+            },
+            {
+              "code": "234",
+              "name": "Maestros de enseñanza primaria y maestros preescolares",
+              "unit_groups": [
+                {
+                  "code": "2341",
+                  "name": "Maestros de enseñanza primaria"
+                },
+                {
+                  "code": "2342",
+                  "name": "Maestros preescolares"
+                }
+              ]
+            },
+            {
+              "code": "235",
+              "name": "Otros profesionales de la enseñanza",
+              "unit_groups": [
+                {
+                  "code": "2351",
+                  "name": "Especialistas en métodos pedagógicos"
+                },
+                {
+                  "code": "2352",
+                  "name": "Educadores para necesidades especiales"
+                },
+                {
+                  "code": "2353",
+                  "name": "Otros profesores de idiomas"
+                },
+                {
+                  "code": "2354",
+                  "name": "Otros profesores de música"
+                },
+                {
+                  "code": "2355",
+                  "name": "Otros profesores de artes"
+                },
+                {
+                  "code": "2356",
+                  "name": "Instructores en tecnología de la información"
+                },
+                {
+                  "code": "2359",
+                  "name": "Profesionales de la enseñanza no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "24",
+          "name": "Especialistas en organización de la administración publica y de empresas",
+          "minor_groups": [
+            {
+              "code": "241",
+              "name": "Especialistas en finanzas",
+              "unit_groups": [
+                {
+                  "code": "2411",
+                  "name": "Contables"
+                },
+                {
+                  "code": "2412",
+                  "name": "Asesores financieros y en inversiones"
+                },
+                {
+                  "code": "2413",
+                  "name": "Analistas financieros"
+                }
+              ]
+            },
+            {
+              "code": "242",
+              "name": "Especialistas en organización de administración",
+              "unit_groups": [
+                {
+                  "code": "2421",
+                  "name": "Analistas de gestión y organización"
+                },
+                {
+                  "code": "2422",
+                  "name": "Especialistas en políticas de administración"
+                },
+                {
+                  "code": "2423",
+                  "name": "Especialistas en políticas y servicios de personal y afines"
+                },
+                {
+                  "code": "2424",
+                  "name": "Especialistas en formación del personal"
+                }
+              ]
+            },
+            {
+              "code": "243",
+              "name": "Profesionales de las ventas, la comercialización y las relaciones públicas",
+              "unit_groups": [
+                {
+                  "code": "2431",
+                  "name": "Profesionales de la publicidad y la comercialización"
+                },
+                {
+                  "code": "2432",
+                  "name": "Profesionales de relaciones públicas"
+                },
+                {
+                  "code": "2433",
+                  "name": "Profesionales de ventas técnicas y médicas (excluyendo la TIC)"
+                },
+                {
+                  "code": "2434",
+                  "name": "Profesionales de ventas de tecnología de la información y las comunicaciones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "25",
+          "name": "Profesionales de tecnología de la información y las comunicaciones",
+          "minor_groups": [
+            {
+              "code": "251",
+              "name": "Desarrolladores y analistas de software y multimedia",
+              "unit_groups": [
+                {
+                  "code": "2511",
+                  "name": "Analistas de sistemas"
+                },
+                {
+                  "code": "2512",
+                  "name": "Desarrolladores de software"
+                },
+                {
+                  "code": "2513",
+                  "name": "Desarrolladores Web y multimedia"
+                },
+                {
+                  "code": "2514",
+                  "name": "Programadores de aplicaciones"
+                },
+                {
+                  "code": "2519",
+                  "name": "Desarrolladores y analistas de software y multimedia y analistas no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "252",
+              "name": "Especialistas en bases de datos y en redes de computadoras",
+              "unit_groups": [
+                {
+                  "code": "2521",
+                  "name": "Diseñadores y administradores de bases de datos"
+                },
+                {
+                  "code": "2522",
+                  "name": "Administradores de sistemas"
+                },
+                {
+                  "code": "2523",
+                  "name": "Profesionales en redes de computadoras"
+                },
+                {
+                  "code": "2529",
+                  "name": "Especialistas en bases de datos y en redes de computadoras no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "26",
+          "name": "Profesionales en derecho, en ciencias sociales y culturales",
+          "minor_groups": [
+            {
+              "code": "261",
+              "name": "Profesionales en derecho",
+              "unit_groups": [
+                {
+                  "code": "2611",
+                  "name": "Abogados"
+                },
+                {
+                  "code": "2612",
+                  "name": "Jueces"
+                },
+                {
+                  "code": "2619",
+                  "name": "Profesionales en derecho no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "262",
+              "name": "Archivistas, bibliotecarios, curadores y afines",
+              "unit_groups": [
+                {
+                  "code": "2621",
+                  "name": "Archivistas y curadores de museos"
+                },
+                {
+                  "code": "2622",
+                  "name": "Bibliotecarios, documentalistas y afines"
+                }
+              ]
+            },
+            {
+              "code": "263",
+              "name": "Especialistas en ciencias sociales y teología",
+              "unit_groups": [
+                {
+                  "code": "2631",
+                  "name": "Economistas"
+                },
+                {
+                  "code": "2632",
+                  "name": "Sociólogos, antropólogos y afines"
+                },
+                {
+                  "code": "2633",
+                  "name": "Filósofos, historiadores y especialistas en ciencias políticas"
+                },
+                {
+                  "code": "2634",
+                  "name": "Psicólogos"
+                },
+                {
+                  "code": "2635",
+                  "name": "Profesionales del trabajo social"
+                },
+                {
+                  "code": "2636",
+                  "name": "Profesionales religiosos"
+                }
+              ]
+            },
+            {
+              "code": "264",
+              "name": "Autores, periodistas y lingüistas",
+              "unit_groups": [
+                {
+                  "code": "2641",
+                  "name": "Autores y otros escritores"
+                },
+                {
+                  "code": "2642",
+                  "name": "Periodistas"
+                },
+                {
+                  "code": "2643",
+                  "name": "Traductores, intérpretes y lingüistas"
+                }
+              ]
+            },
+            {
+              "code": "265",
+              "name": "Artistas creativos e interpretativos",
+              "unit_groups": [
+                {
+                  "code": "2651",
+                  "name": "Artistas de artes plásticas"
+                },
+                {
+                  "code": "2652",
+                  "name": "Músicos, cantantes y compositores"
+                },
+                {
+                  "code": "2653",
+                  "name": "Bailarines y coreógrafos"
+                },
+                {
+                  "code": "2654",
+                  "name": "Directores de cine, de teatro y afines"
+                },
+                {
+                  "code": "2655",
+                  "name": "Actores"
+                },
+                {
+                  "code": "2656",
+                  "name": "Locutores de radio, televisión y otros medios de comunicación"
+                },
+                {
+                  "code": "2659",
+                  "name": "Artistas creativos e interpretativos no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "3",
+      "name": "Técnicos y profesionales de nivel medio",
+      "sub_major_groups": [
+        {
+          "code": "31",
+          "name": "Profesionales de las ciencias y la ingeniería de nivel medio",
+          "minor_groups": [
+            {
+              "code": "311",
+              "name": "Técnicos en ciencias físicas y en ingeniería",
+              "unit_groups": [
+                {
+                  "code": "3111",
+                  "name": "Técnicos en ciencias físicas y químicas"
+                },
+                {
+                  "code": "3112",
+                  "name": "Técnicos en ingeniería civil"
+                },
+                {
+                  "code": "3113",
+                  "name": "Electrotécnicos"
+                },
+                {
+                  "code": "3114",
+                  "name": "Técnicos en electrónica"
+                },
+                {
+                  "code": "3115",
+                  "name": "Técnicos en ingeniería mecánica"
+                },
+                {
+                  "code": "3116",
+                  "name": "Técnicos en química industrial"
+                },
+                {
+                  "code": "3117",
+                  "name": "Técnicos en ingeniería de minas y metalurgia"
+                },
+                {
+                  "code": "3118",
+                  "name": "Delineantes y dibujantes técnicos"
+                },
+                {
+                  "code": "3119",
+                  "name": "Técnicos en ciencias físicas y en ingeniería no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "312",
+              "name": "Supervisores en ingeniería de minas, de industrias manufactureras y de la construcción",
+              "unit_groups": [
+                {
+                  "code": "3121",
+                  "name": "Supervisores en ingeniería de minas"
+                },
+                {
+                  "code": "3122",
+                  "name": "Supervisores de industrias manufactureras"
+                },
+                {
+                  "code": "3123",
+                  "name": "Supervisores de la construcción"
+                }
+              ]
+            },
+            {
+              "code": "313",
+              "name": "Técnicos en control de procesos",
+              "unit_groups": [
+                {
+                  "code": "3131",
+                  "name": "Operadores de instalaciones de producción de energía"
+                },
+                {
+                  "code": "3132",
+                  "name": "Operadores de incineradores, instalaciones de tratamiento de agua y afines"
+                },
+                {
+                  "code": "3133",
+                  "name": "Controladores de instalaciones de procesamiento de productos químicos"
+                },
+                {
+                  "code": "3134",
+                  "name": "Operadores de instalaciones de re nación de petróleo y gas natural"
+                },
+                {
+                  "code": "3135",
+                  "name": "Controladores de procesos de producción de metales"
+                },
+                {
+                  "code": "3139",
+                  "name": "Técnicos en control de procesos no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "314",
+              "name": "Técnicos y profesionales de nivel medio en ciencias biológicas y afines",
+              "unit_groups": [
+                {
+                  "code": "3141",
+                  "name": "Técnicos en ciencias biológicas (excluyendo la medicina)"
+                },
+                {
+                  "code": "3142",
+                  "name": "Técnicos agropecuarios"
+                },
+                {
+                  "code": "3143",
+                  "name": "Técnicos forestales"
+                }
+              ]
+            },
+            {
+              "code": "315",
+              "name": "Técnicos y controladores en navegación marítima y aeronáutica",
+              "unit_groups": [
+                {
+                  "code": "3151",
+                  "name": "Oficiales maquinistas en navegación"
+                },
+                {
+                  "code": "3152",
+                  "name": "Capitanes, o ciales de cubierta y prácticos"
+                },
+                {
+                  "code": "3153",
+                  "name": "Pilotos de aviación y afines"
+                },
+                {
+                  "code": "3154",
+                  "name": "Controladores de trá co aéreo"
+                },
+                {
+                  "code": "3155",
+                  "name": "Técnicos en seguridad aeronáutica"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "32",
+          "name": "Profesionales de nivel medio de la salud",
+          "minor_groups": [
+            {
+              "code": "321",
+              "name": "Técnicos médicos y farmacéuticos",
+              "unit_groups": [
+                {
+                  "code": "3211",
+                  "name": "Técnicos en aparatos de diagnóstico y tratamiento médico"
+                },
+                {
+                  "code": "3212",
+                  "name": "Técnicos de laboratorios médicos"
+                },
+                {
+                  "code": "3213",
+                  "name": "Técnicos y asistentes farmacéuticos"
+                },
+                {
+                  "code": "3214",
+                  "name": "Técnicos de prótesis médicas y dentales"
+                }
+              ]
+            },
+            {
+              "code": "322",
+              "name": "Profesionales de nivel medio de enfermería y partería",
+              "unit_groups": [
+                {
+                  "code": "3221",
+                  "name": "Profesionales de nivel medio de enfermería"
+                },
+                {
+                  "code": "3222",
+                  "name": "Profesionales de nivel medio de partería"
+                }
+              ]
+            },
+            {
+              "code": "323",
+              "name": "Profesionales de nivel medio de medicina tradicional y alternativa",
+              "unit_groups": [
+                {
+                  "code": "3230",
+                  "name": "Profesionales de nivel medio de medicina tradicional y alternativa"
+                }
+              ]
+            },
+            {
+              "code": "324",
+              "name": "Técnicos y asistentes veterinarios",
+              "unit_groups": [
+                {
+                  "code": "3240",
+                  "name": "Técnicos y asistentes veterinarios"
+                }
+              ]
+            },
+            {
+              "code": "325",
+              "name": "Otros profesionales de nivel medio de la salud",
+              "unit_groups": [
+                {
+                  "code": "3251",
+                  "name": "Dentistas auxiliares y ayudantes de odontología"
+                },
+                {
+                  "code": "3252",
+                  "name": "Técnicos en documentación sanitaria"
+                },
+                {
+                  "code": "3253",
+                  "name": "Trabajadores comunitarios de la salud"
+                },
+                {
+                  "code": "3254",
+                  "name": "Técnicos en optometría y ópticos"
+                },
+                {
+                  "code": "3255",
+                  "name": "Técnicos y asistentes  sioterapeutas"
+                },
+                {
+                  "code": "3256",
+                  "name": "Practicantes y asistentes médicos"
+                },
+                {
+                  "code": "3257",
+                  "name": "Inspectores de la salud laboral, medioambiental y afines"
+                },
+                {
+                  "code": "3258",
+                  "name": "Ayudantes de ambulancias"
+                },
+                {
+                  "code": "3259",
+                  "name": "Profesionales de la salud de nivel medio no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "33",
+          "name": "Profesionales de nivel medio en operaciones financieras y administrativas",
+          "minor_groups": [
+            {
+              "code": "331",
+              "name": "Profesionales de nivel medio en  nanzas y matemáticas",
+              "unit_groups": [
+                {
+                  "code": "3311",
+                  "name": "Agentes de bolsa, cambio y otros servicios  nancieros"
+                },
+                {
+                  "code": "3312",
+                  "name": "Oficiales de préstamos y créditos"
+                },
+                {
+                  "code": "3313",
+                  "name": "Tenedores de libros"
+                },
+                {
+                  "code": "3314",
+                  "name": "Profesionales de nivel medio de servicios estadísticos, matemáticos y afines"
+                },
+                {
+                  "code": "3315",
+                  "name": "Tasadores"
+                }
+              ]
+            },
+            {
+              "code": "332",
+              "name": "Agentes comerciales y corredores",
+              "unit_groups": [
+                {
+                  "code": "3321",
+                  "name": "Agentes de seguros"
+                },
+                {
+                  "code": "3322",
+                  "name": "Representantes comerciales"
+                },
+                {
+                  "code": "3323",
+                  "name": "Agentes de compras"
+                },
+                {
+                  "code": "3324",
+                  "name": "Agentes de compras y consignatarios"
+                }
+              ]
+            },
+            {
+              "code": "333",
+              "name": "Agentes de servicios comerciales",
+              "unit_groups": [
+                {
+                  "code": "3331",
+                  "name": "Declarantes o gestores de aduana"
+                },
+                {
+                  "code": "3332",
+                  "name": "Organizadores de conferencias y eventos"
+                },
+                {
+                  "code": "3333",
+                  "name": "Agentes de empleo y contratistas de mano de obra"
+                },
+                {
+                  "code": "3334",
+                  "name": "Agentes inmobiliarios"
+                },
+                {
+                  "code": "3339",
+                  "name": "Agentes de servicios comerciales no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "334",
+              "name": "Secretarios administrativos y especializados",
+              "unit_groups": [
+                {
+                  "code": "3341",
+                  "name": "Supervisores de secretaría"
+                },
+                {
+                  "code": "3342",
+                  "name": "Secretarios jurídicos"
+                },
+                {
+                  "code": "3343",
+                  "name": "Secretarios administrativos y ejecutivos"
+                },
+                {
+                  "code": "3344",
+                  "name": "Secretarios médicos"
+                }
+              ]
+            },
+            {
+              "code": "335",
+              "name": "Agentes de la administración pública para la aplicación de la ley y afines",
+              "unit_groups": [
+                {
+                  "code": "3351",
+                  "name": "Agentes de aduana e inspectores de fronteras"
+                },
+                {
+                  "code": "3352",
+                  "name": "Agentes de administración tributaria"
+                },
+                {
+                  "code": "3353",
+                  "name": "Agentes de servicios de seguridad social"
+                },
+                {
+                  "code": "3354",
+                  "name": "Agentes de servicios de expedición de licencias y permisos"
+                },
+                {
+                  "code": "3355",
+                  "name": "Inspectores de policía y detectives"
+                },
+                {
+                  "code": "3359",
+                  "name": "Agentes de la administración pública para la aplicacion de la ley y afines no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "34",
+          "name": "Profesionales de nivel medio de servicios jurídicos, sociales, culturales y afines",
+          "minor_groups": [
+            {
+              "code": "341",
+              "name": "Profesionales de nivel medio, de servicios jurídicos, sociales y religiosos",
+              "unit_groups": [
+                {
+                  "code": "3411",
+                  "name": "Profesionales de nivel medio del derecho y servicios legales y afines"
+                },
+                {
+                  "code": "3412",
+                  "name": "Trabajadores y asistentes sociales de nivel medio"
+                },
+                {
+                  "code": "3413",
+                  "name": "Auxiliares laicos de las religiones"
+                }
+              ]
+            },
+            {
+              "code": "342",
+              "name": "Entrenadores de deportes y aptitud física",
+              "unit_groups": [
+                {
+                  "code": "3421",
+                  "name": "Atletas y deportistas"
+                },
+                {
+                  "code": "3422",
+                  "name": "Entrenadores, instructores y árbitros de actividades deportivas"
+                },
+                {
+                  "code": "3423",
+                  "name": "Instructores de educación física y actividades recreativas"
+                }
+              ]
+            },
+            {
+              "code": "343",
+              "name": "Profesionales de nivel medio en actividades culturales, artísticas y culinarias",
+              "unit_groups": [
+                {
+                  "code": "3431",
+                  "name": "Fotógrafos"
+                },
+                {
+                  "code": "3432",
+                  "name": "Diseñadores y decoradores de interior"
+                },
+                {
+                  "code": "3433",
+                  "name": "Técnicos en galerías de arte, museos y bibliotecas"
+                },
+                {
+                  "code": "3434",
+                  "name": "Chefs"
+                },
+                {
+                  "code": "3435",
+                  "name": "Otros profesionales de nivel medio en actividades culturales y artísticas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "35",
+          "name": "Técnicos de la tecnología de la información y las comunicaciones",
+          "minor_groups": [
+            {
+              "code": "351",
+              "name": "Técnicos en operaciones de tecnología de la información y las comunicaciones y asistencia al usuario",
+              "unit_groups": [
+                {
+                  "code": "3511",
+                  "name": "Técnicos en operaciones de tecnología de la información y las comunicaciones"
+                },
+                {
+                  "code": "3512",
+                  "name": "Técnicos en asistencia al usuario de tecnología de la información y las comunicaciones"
+                },
+                {
+                  "code": "3513",
+                  "name": "Técnicos en redes y sistemas de computadoras"
+                },
+                {
+                  "code": "3514",
+                  "name": "Técnicos de la Web"
+                }
+              ]
+            },
+            {
+              "code": "352",
+              "name": "Técnicos en telecomunicaciones y radiodifusión",
+              "unit_groups": [
+                {
+                  "code": "3521",
+                  "name": "Técnicos de radiodifusión y grabación audio visual"
+                },
+                {
+                  "code": "3522",
+                  "name": "Técnicos de ingeniería de las telecomunicaciones"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "4",
+      "name": "Personal de apoyo administrativo",
+      "sub_major_groups": [
+        {
+          "code": "41",
+          "name": "Oficinistas",
+          "minor_groups": [
+            {
+              "code": "411",
+              "name": "Oficinistas generales",
+              "unit_groups": [
+                {
+                  "code": "4110",
+                  "name": "Oficinistas generales"
+                }
+              ]
+            },
+            {
+              "code": "412",
+              "name": "Secretarios (general)",
+              "unit_groups": [
+                {
+                  "code": "4120",
+                  "name": "Secretarios (general)"
+                }
+              ]
+            },
+            {
+              "code": "413",
+              "name": "Operadores de máquinas de o cina",
+              "unit_groups": [
+                {
+                  "code": "4131",
+                  "name": "Operadores de máquinas de procesamiento de texto y mecanógrafos"
+                },
+                {
+                  "code": "4132",
+                  "name": "Grabadores de datos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "42",
+          "name": "Empleados en trato directo con el público",
+          "minor_groups": [
+            {
+              "code": "421",
+              "name": "Pagadores y cobradores de ventanilla y afines",
+              "unit_groups": [
+                {
+                  "code": "4211",
+                  "name": "Cajeros de bancos y afines"
+                },
+                {
+                  "code": "4212",
+                  "name": "Receptores de apuestas y afines"
+                },
+                {
+                  "code": "4213",
+                  "name": "Prestamistas"
+                },
+                {
+                  "code": "4214",
+                  "name": "Cobradores y afines"
+                }
+              ]
+            },
+            {
+              "code": "422",
+              "name": "Empleados de servicios de información al cliente",
+              "unit_groups": [
+                {
+                  "code": "4221",
+                  "name": "Empleados de agencias de viajes"
+                },
+                {
+                  "code": "4222",
+                  "name": "Empleados de centros de llamadas"
+                },
+                {
+                  "code": "4223",
+                  "name": "Telefonistas"
+                },
+                {
+                  "code": "4224",
+                  "name": "Recepcionistas de hoteles"
+                },
+                {
+                  "code": "4225",
+                  "name": "Empleados de ventanillas de informaciones"
+                },
+                {
+                  "code": "4226",
+                  "name": "Recepcionistas (general)"
+                },
+                {
+                  "code": "4227",
+                  "name": "Entrevistadores de encuestas y de investigaciones de mercados"
+                },
+                {
+                  "code": "4229",
+                  "name": "Empleados de servicios de información al cliente no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "43",
+          "name": "Empleados contables y encargados del registro de materiales",
+          "minor_groups": [
+            {
+              "code": "431",
+              "name": "Auxiliares contables y financieros",
+              "unit_groups": [
+                {
+                  "code": "4311",
+                  "name": "Empleados de contabilidad y cálculo de costos"
+                },
+                {
+                  "code": "4312",
+                  "name": "Empleados de servicios estadísticos, financieros y de seguros"
+                },
+                {
+                  "code": "4313",
+                  "name": "Empleados encargados de las nóminas"
+                }
+              ]
+            },
+            {
+              "code": "432",
+              "name": "Empleados encargados del registro de materiales y de transportes",
+              "unit_groups": [
+                {
+                  "code": "4321",
+                  "name": "Empleados de control de abastecimiento e inventario"
+                },
+                {
+                  "code": "4322",
+                  "name": "Empleados de servicios de apoyo a la producción"
+                },
+                {
+                  "code": "4323",
+                  "name": "Empleados de servicios de transporte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "44",
+          "name": "Otro personal de apoyo administrativo",
+          "minor_groups": [
+            {
+              "code": "441",
+              "name": "Otro personal de apoyo administrativo",
+              "unit_groups": [
+                {
+                  "code": "4411",
+                  "name": "Empleados de bibliotecas"
+                },
+                {
+                  "code": "4412",
+                  "name": "Empleados de servicios de correos"
+                },
+                {
+                  "code": "4413",
+                  "name": "Codificadores de datos, correctores de pruebas de imprenta y afines"
+                },
+                {
+                  "code": "4414",
+                  "name": "Escribientes públicos y afines"
+                },
+                {
+                  "code": "4415",
+                  "name": "Empleados de archivos"
+                },
+                {
+                  "code": "4416",
+                  "name": "Empleados del servicio de personal"
+                },
+                {
+                  "code": "4419",
+                  "name": "Personal de apoyo administrativo no clasificado bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "5",
+      "name": "Trabajadores de los servicios y vendedores de comercios y mercados",
+      "sub_major_groups": [
+        {
+          "code": "51",
+          "name": "Trabajadores de los servicios personales",
+          "minor_groups": [
+            {
+              "code": "511",
+              "name": "Personal al servicio directo de los pasajeros",
+              "unit_groups": [
+                {
+                  "code": "5111",
+                  "name": "Auxiliares de servicio de abordo"
+                },
+                {
+                  "code": "5112",
+                  "name": "Revisores y cobradores de los transportes públicos"
+                },
+                {
+                  "code": "5113",
+                  "name": "Guías de turismo"
+                }
+              ]
+            },
+            {
+              "code": "512",
+              "name": "Cocineros",
+              "unit_groups": [
+                {
+                  "code": "5120",
+                  "name": "Cocineros"
+                }
+              ]
+            },
+            {
+              "code": "513",
+              "name": "Camareros",
+              "unit_groups": [
+                {
+                  "code": "5131",
+                  "name": "Camareros de mesas"
+                },
+                {
+                  "code": "5132",
+                  "name": "Camareros de barra"
+                }
+              ]
+            },
+            {
+              "code": "514",
+              "name": "Peluqueros, especialistas en tratamientos de belleza y afines",
+              "unit_groups": [
+                {
+                  "code": "5141",
+                  "name": "Peluqueros"
+                },
+                {
+                  "code": "5142",
+                  "name": "Especialistas en tratamientos de belleza y afines"
+                }
+              ]
+            },
+            {
+              "code": "515",
+              "name": "Supervisores de mantenimiento y limpieza de edificios",
+              "unit_groups": [
+                {
+                  "code": "5151",
+                  "name": "Supervisores de mantenimiento y limpieza en oficinas, hoteles y otros establecimientos"
+                },
+                {
+                  "code": "5152",
+                  "name": "Ecónomos y mayordomos domésticos"
+                },
+                {
+                  "code": "5153",
+                  "name": "Conserjes"
+                }
+              ]
+            },
+            {
+              "code": "516",
+              "name": "Otros trabajadores de servicios personales",
+              "unit_groups": [
+                {
+                  "code": "5161",
+                  "name": "Astrólogos, adivinadores y afines"
+                },
+                {
+                  "code": "5162",
+                  "name": "Acompañantes y ayudantes de cámara"
+                },
+                {
+                  "code": "5163",
+                  "name": "Personal de pompas fúnebres y embalsamadores"
+                },
+                {
+                  "code": "5164",
+                  "name": "Cuidadores de animales"
+                },
+                {
+                  "code": "5165",
+                  "name": "Instructores de autoescuela"
+                },
+                {
+                  "code": "5169",
+                  "name": "Trabajadores de servicios personales no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "52",
+          "name": "Vendedores",
+          "minor_groups": [
+            {
+              "code": "521",
+              "name": "Vendedores callejeros y de puestos de mercado",
+              "unit_groups": [
+                {
+                  "code": "5211",
+                  "name": "Vendedores de quioscos y de puestos de mercado"
+                },
+                {
+                  "code": "5212",
+                  "name": "Vendedores ambulantes de productos comestibles"
+                }
+              ]
+            },
+            {
+              "code": "522",
+              "name": "Comerciantes y vendedores de tiendas y almacenes",
+              "unit_groups": [
+                {
+                  "code": "5221",
+                  "name": "Comerciantes de tiendas"
+                },
+                {
+                  "code": "5222",
+                  "name": "Supervisores de tiendas y almacenes"
+                },
+                {
+                  "code": "5223",
+                  "name": "Asistentes de venta de tiendas y almacenes"
+                }
+              ]
+            },
+            {
+              "code": "523",
+              "name": "Cajeros y expendedoras de billetes",
+              "unit_groups": [
+                {
+                  "code": "5230",
+                  "name": "Cajeros y expendedoras de billetes"
+                }
+              ]
+            },
+            {
+              "code": "524",
+              "name": "Otros vendedores",
+              "unit_groups": [
+                {
+                  "code": "5241",
+                  "name": "Modelos de moda, arte y publicidad"
+                },
+                {
+                  "code": "5242",
+                  "name": "Demostradores de tiendas"
+                },
+                {
+                  "code": "5243",
+                  "name": "Vendedores puerta a puerta"
+                },
+                {
+                  "code": "5244",
+                  "name": "Vendedores por teléfono"
+                },
+                {
+                  "code": "5245",
+                  "name": "Expendedores de gasolineras"
+                },
+                {
+                  "code": "5246",
+                  "name": "Vendedores de comidas al mostrador"
+                },
+                {
+                  "code": "5249",
+                  "name": "Vendedores no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "53",
+          "name": "Trabajadores de los cuidados personales",
+          "minor_groups": [
+            {
+              "code": "531",
+              "name": "Cuidadores de niños y auxiliares de maestros",
+              "unit_groups": [
+                {
+                  "code": "5311",
+                  "name": "Cuidadores de niños"
+                },
+                {
+                  "code": "5312",
+                  "name": "Auxiliares de maestros"
+                }
+              ]
+            },
+            {
+              "code": "532",
+              "name": "Trabajadores de los cuidados personales en servicios de salud",
+              "unit_groups": [
+                {
+                  "code": "5321",
+                  "name": "Trabajadores de los cuidados personales en instituciones"
+                },
+                {
+                  "code": "5322",
+                  "name": "Trabajadores de los cuidados personales a domicilio"
+                },
+                {
+                  "code": "5329",
+                  "name": "Trabajadores de los cuidados personales en servicios de salud no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "54",
+          "name": "Personal de los servicios de protección",
+          "minor_groups": [
+            {
+              "code": "541",
+              "name": "Personal de los servicios de protección",
+              "unit_groups": [
+                {
+                  "code": "5411",
+                  "name": "Bomberos"
+                },
+                {
+                  "code": "5412",
+                  "name": "Policías"
+                },
+                {
+                  "code": "5413",
+                  "name": "Guardianes de prisión"
+                },
+                {
+                  "code": "5414",
+                  "name": "Guardias de protección"
+                },
+                {
+                  "code": "5419",
+                  "name": "Personal de los servicios de protección no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "6",
+      "name": "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+      "sub_major_groups": [
+        {
+          "code": "61",
+          "name": "Agricultores y trabajadores calificados de explotaciones agropecuarias con destino al mercado",
+          "minor_groups": [
+            {
+              "code": "611",
+              "name": "Agricultores y trabajadores calificados de jardines y de cultivos para el mercado",
+              "unit_groups": [
+                {
+                  "code": "6111",
+                  "name": "Agricultores y trabajadores calificados de cultivos extensivos"
+                },
+                {
+                  "code": "6112",
+                  "name": "Agricultores y trabajadores calificados de plantaciones de árboles y arbustos"
+                },
+                {
+                  "code": "6113",
+                  "name": "Agricultores y trabajadores calificados de huertas, invernaderos, viveros y jardines"
+                },
+                {
+                  "code": "6114",
+                  "name": "Agricultores y trabajadores calificados de cultivos mixtos"
+                }
+              ]
+            },
+            {
+              "code": "612",
+              "name": "Criadores y trabajadores pecuarios calificados de la cría de animales para el mercado y afines",
+              "unit_groups": [
+                {
+                  "code": "6121",
+                  "name": "Criadores de ganado"
+                },
+                {
+                  "code": "6122",
+                  "name": "Avicultores y trabajadores calificados de la avicultura"
+                },
+                {
+                  "code": "6123",
+                  "name": "Apicultores y sericultores y trabajadores calificados de la apicultura y la sericultura"
+                },
+                {
+                  "code": "6129",
+                  "name": "Criadores y trabajadores pecuarios calificados de la cría de animales no clasificados bajo"
+                }
+              ]
+            },
+            {
+              "code": "613",
+              "name": "Productores y trabajadores calificados de explotaciones agropecuarias mixtas cuya producción se destina al mercado",
+              "unit_groups": [
+                {
+                  "code": "6130",
+                  "name": "Productores y trabajadores calificados de explotaciones agropecuarias mixtas cuya producción se destina al mercado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "62",
+          "name": "Trabajadores forestales calificados, pescadores y cazadores",
+          "minor_groups": [
+            {
+              "code": "621",
+              "name": "Trabajadores forestales calificados y afines",
+              "unit_groups": [
+                {
+                  "code": "6210",
+                  "name": "Trabajadores forestales calificados y afines"
+                }
+              ]
+            },
+            {
+              "code": "622",
+              "name": "Pescadores, cazadores y tramperos",
+              "unit_groups": [
+                {
+                  "code": "6221",
+                  "name": "Trabajadores de explotaciones de acuicultura"
+                },
+                {
+                  "code": "6222",
+                  "name": "Pescadores de agua dulce y aguas costeras"
+                },
+                {
+                  "code": "6223",
+                  "name": "Pescadores de alta mar"
+                },
+                {
+                  "code": "6224",
+                  "name": "Cazadores y tramperos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "63",
+          "name": "Trabajadores agropecuarios, pescadores, cazadores y recolectores de subsistencia",
+          "minor_groups": [
+            {
+              "code": "631",
+              "name": "Trabajadores agrícolas de subsistencia",
+              "unit_groups": [
+                {
+                  "code": "6310",
+                  "name": "Trabajadores agrícolas de subsistencia"
+                }
+              ]
+            },
+            {
+              "code": "632",
+              "name": "Trabajadores pecuarios de subsistencia",
+              "unit_groups": [
+                {
+                  "code": "6320",
+                  "name": "Trabajadores pecuarios de subsistencia"
+                }
+              ]
+            },
+            {
+              "code": "633",
+              "name": "Trabajadores agropecuarios de subsistencia",
+              "unit_groups": [
+                {
+                  "code": "6330",
+                  "name": "Trabajadores agropecuarios de subsistencia"
+                }
+              ]
+            },
+            {
+              "code": "634",
+              "name": "Pescadores, cazadores, tramperos y recolectores de subsistencia",
+              "unit_groups": [
+                {
+                  "code": "6340",
+                  "name": "Pescadores, cazadores, tramperos y recolectores de subsistencia"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "7",
+      "name": "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",
+      "sub_major_groups": [
+        {
+          "code": "71",
+          "name": "Oficiales y operarios de la construcción excluyendo electricistas",
+          "minor_groups": [
+            {
+              "code": "711",
+              "name": "Oficiales y operarios de la construcción (obra gruesa) y afines",
+              "unit_groups": [
+                {
+                  "code": "7111",
+                  "name": "Constructores de casas"
+                },
+                {
+                  "code": "7112",
+                  "name": "Albañiles"
+                },
+                {
+                  "code": "7113",
+                  "name": "Mamposteros, tronzadores, labrantes y grabadores de piedra"
+                },
+                {
+                  "code": "7114",
+                  "name": "Operarios en cemento armado, enfoscadores y afines"
+                },
+                {
+                  "code": "7115",
+                  "name": "Carpinteros de armar y de obra blanca"
+                },
+                {
+                  "code": "7119",
+                  "name": "Oficiales y operarios de la construcción (obra gruesa) y afines no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "712",
+              "name": "Oficiales y operarios de la construcción (trabajos de acabado) y afines",
+              "unit_groups": [
+                {
+                  "code": "7121",
+                  "name": "Techadores"
+                },
+                {
+                  "code": "7122",
+                  "name": "Parqueteros y colocadores de suelos"
+                },
+                {
+                  "code": "7123",
+                  "name": "Revocadores"
+                },
+                {
+                  "code": "7124",
+                  "name": "Instaladores de material aislante y de insonorización"
+                },
+                {
+                  "code": "7125",
+                  "name": "Cristaleros"
+                },
+                {
+                  "code": "7126",
+                  "name": "Fontaneros e instaladores de tuberías"
+                },
+                {
+                  "code": "7127",
+                  "name": "Mecánicos-montadores de instalaciones de refrigeración y climatización"
+                }
+              ]
+            },
+            {
+              "code": "713",
+              "name": "Pintores, limpiadores de fachadas y afines",
+              "unit_groups": [
+                {
+                  "code": "7131",
+                  "name": "Pintores y empapeladores"
+                },
+                {
+                  "code": "7132",
+                  "name": "Barnizadores y afines"
+                },
+                {
+                  "code": "7133",
+                  "name": "Limpiadores de fachadas y deshollinadores"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "72",
+          "name": "Oficiales y operarios de la metalurgia, la construcción mecánica y afines",
+          "minor_groups": [
+            {
+              "code": "721",
+              "name": "Moldeadores, soldadores, chapistas, caldereros, montadores de estructuras metálicas y afines",
+              "unit_groups": [
+                {
+                  "code": "7211",
+                  "name": "Moldeadores y macheros"
+                },
+                {
+                  "code": "7212",
+                  "name": "Soldadores y oxicortadores"
+                },
+                {
+                  "code": "7213",
+                  "name": "Chapistas y caldereros"
+                },
+                {
+                  "code": "7214",
+                  "name": "Montadores de estructuras metálicas"
+                },
+                {
+                  "code": "7215",
+                  "name": "Aparejadores y empalmadores de cables"
+                }
+              ]
+            },
+            {
+              "code": "722",
+              "name": "Herreros, herramentistas y afines",
+              "unit_groups": [
+                {
+                  "code": "7221",
+                  "name": "Herreros y forjadores"
+                },
+                {
+                  "code": "7222",
+                  "name": "Herramentistas y afines"
+                },
+                {
+                  "code": "7223",
+                  "name": "Reguladores y operadores de máquinas herramientas"
+                },
+                {
+                  "code": "7224",
+                  "name": "Pulidores de metales y a ladores de herramientas"
+                }
+              ]
+            },
+            {
+              "code": "723",
+              "name": "Mecánicos y reparadores de máquinas",
+              "unit_groups": [
+                {
+                  "code": "7231",
+                  "name": "Mecánicos y reparadores de vehículos de motor"
+                },
+                {
+                  "code": "7232",
+                  "name": "Mecánicos y reparadores de motores de avión"
+                },
+                {
+                  "code": "7233",
+                  "name": "Mecánicos y reparadores de máquinas agrícolas e industriales"
+                },
+                {
+                  "code": "7234",
+                  "name": "Reparadores de bicicletas y afines"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "73",
+          "name": "Artesanos y operarios de las artes gráficas",
+          "minor_groups": [
+            {
+              "code": "731",
+              "name": "Artesanos",
+              "unit_groups": [
+                {
+                  "code": "7311",
+                  "name": "Mecánicos y reparadores de instrumentos de precisión"
+                },
+                {
+                  "code": "7312",
+                  "name": "Fabricantes y a nadores de instrumentos musicales"
+                },
+                {
+                  "code": "7313",
+                  "name": "Joyeros, orfebres y plateros"
+                },
+                {
+                  "code": "7314",
+                  "name": "Alfareros y afines (barro, arcilla y abrasivos)"
+                },
+                {
+                  "code": "7315",
+                  "name": "Sopladores, modeladores, laminadores, cortadores y pulidores de vidrio"
+                },
+                {
+                  "code": "7316",
+                  "name": "Redactores de carteles, pintores decorativos y grabadores"
+                },
+                {
+                  "code": "7317",
+                  "name": "Artesanos en madera, cestería y materiales similares"
+                },
+                {
+                  "code": "7318",
+                  "name": "Artesanos de los tejidos, el cuero y materiales similares"
+                },
+                {
+                  "code": "7319",
+                  "name": "Artesanos no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "732",
+              "name": "Oficiales y operarios de las artes gráficas",
+              "unit_groups": [
+                {
+                  "code": "7321",
+                  "name": "Cajistas, tipógrafos y afines"
+                },
+                {
+                  "code": "7322",
+                  "name": "Impresores"
+                },
+                {
+                  "code": "7323",
+                  "name": "Encuadernadores y afines"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "74",
+          "name": "Trabajadores especializados en electricidad y electrotecnología",
+          "minor_groups": [
+            {
+              "code": "741",
+              "name": "Instaladores y reparadores de equipos eléctricos",
+              "unit_groups": [
+                {
+                  "code": "7411",
+                  "name": "Electricistas de obras y afines"
+                },
+                {
+                  "code": "7412",
+                  "name": "Mecánicos y ajustadores electricistas"
+                },
+                {
+                  "code": "7413",
+                  "name": "Instaladores y reparadores de líneas eléctricas"
+                }
+              ]
+            },
+            {
+              "code": "742",
+              "name": "Instaladores y reparadores de equipos electrónicos y de telecomunicaciones",
+              "unit_groups": [
+                {
+                  "code": "7421",
+                  "name": "Mecánicos y reparadores en electrónica"
+                },
+                {
+                  "code": "7422",
+                  "name": "Instaladores y reparadores en tecnología de la información y las comunicaciones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "75",
+          "name": "Operarios y oficiales de procesamiento de alimentos, de la confección, ebanistas, otros artesanos y afines",
+          "minor_groups": [
+            {
+              "code": "751",
+              "name": "Oficiales y operarios de procesamiento de alimentos y afines",
+              "unit_groups": [
+                {
+                  "code": "7511",
+                  "name": "Carniceros, pescaderos y afines"
+                },
+                {
+                  "code": "7512",
+                  "name": "Panaderos, pasteleros y con teros"
+                },
+                {
+                  "code": "7513",
+                  "name": "Operarios de la elaboración de productos lácteos"
+                },
+                {
+                  "code": "7514",
+                  "name": "Operarios de la conservación de frutas, legumbres, verduras y afines"
+                },
+                {
+                  "code": "7515",
+                  "name": "Catadores y clasi cadores de alimentos y bebidas"
+                },
+                {
+                  "code": "7516",
+                  "name": "Preparadores y elaboradores de tabaco y sus productos"
+                }
+              ]
+            },
+            {
+              "code": "752",
+              "name": "Oficiales y operarios del tratamiento de la madera, ebanistas y afines",
+              "unit_groups": [
+                {
+                  "code": "7521",
+                  "name": "Operarios del tratamiento de la madera"
+                },
+                {
+                  "code": "7522",
+                  "name": "Ebanistas y afines"
+                },
+                {
+                  "code": "7523",
+                  "name": "Reguladores y operadores de máquinas de labrar madera"
+                }
+              ]
+            },
+            {
+              "code": "753",
+              "name": "Oficiales y operarios de la confección y afines",
+              "unit_groups": [
+                {
+                  "code": "7531",
+                  "name": "Sastres, modistos, peleteros y sombrereros"
+                },
+                {
+                  "code": "7532",
+                  "name": "Patronistas y cortadores de tela y afines"
+                },
+                {
+                  "code": "7533",
+                  "name": "Costureros, bordadores y afines"
+                },
+                {
+                  "code": "7534",
+                  "name": "Tapiceros, colchoneros y afines"
+                },
+                {
+                  "code": "7535",
+                  "name": "Apelambradores, pellejeros y curtidores"
+                },
+                {
+                  "code": "7536",
+                  "name": "Zapateros y afines"
+                }
+              ]
+            },
+            {
+              "code": "754",
+              "name": "Otros o ciales, operarios y artesanos de artes mecánicas y de otros oficios",
+              "unit_groups": [
+                {
+                  "code": "7541",
+                  "name": "Buzos"
+                },
+                {
+                  "code": "7542",
+                  "name": "Dinamiteros y pegadores"
+                },
+                {
+                  "code": "7543",
+                  "name": "Clasi cadores y probadores de productos (excluyendo alimentos y bebidas)"
+                },
+                {
+                  "code": "7544",
+                  "name": "Fumigadores y otros controladores de plagas y malas hierbas"
+                },
+                {
+                  "code": "7549",
+                  "name": "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "8",
+      "name": "Operadores de instalaciones y máquinas y ensambladores",
+      "sub_major_groups": [
+        {
+          "code": "81",
+          "name": "Operadores de instalaciones fijas y máquinas",
+          "minor_groups": [
+            {
+              "code": "811",
+              "name": "Operadores de instalaciones mineras y de extracción y procesamiento de minerales",
+              "unit_groups": [
+                {
+                  "code": "8111",
+                  "name": "Mineros y operadores de instalaciones mineras"
+                },
+                {
+                  "code": "8112",
+                  "name": "Operadores de instalaciones de procesamiento de minerales y rocas"
+                },
+                {
+                  "code": "8113",
+                  "name": "Perforadores y sondistas de pozos y afines"
+                },
+                {
+                  "code": "8114",
+                  "name": "Operadores de máquinas para fabricar cemento y otros productos minerales"
+                }
+              ]
+            },
+            {
+              "code": "812",
+              "name": "Operadores de instalaciones de procesamiento y recubridoras de metales",
+              "unit_groups": [
+                {
+                  "code": "8121",
+                  "name": "Operadores de instalaciones de procesamiento de metales"
+                },
+                {
+                  "code": "8122",
+                  "name": "Operadores de máquinas pulidoras, galvanizadoras y recubridoras de metales"
+                }
+              ]
+            },
+            {
+              "code": "813",
+              "name": "Operadores de instalaciones y máquinas de productos químicos y fotográficos",
+              "unit_groups": [
+                {
+                  "code": "8131",
+                  "name": "Operadores de plantas y máquinas de productos químicos"
+                },
+                {
+                  "code": "8132",
+                  "name": "Operadores de máquinas para fabricar productos fotográficos"
+                }
+              ]
+            },
+            {
+              "code": "814",
+              "name": "Operadores de máquinas para fabricar productos de caucho, de papel y de material plástico",
+              "unit_groups": [
+                {
+                  "code": "8141",
+                  "name": "Operadores de máquinas para fabricar productos de caucho"
+                },
+                {
+                  "code": "8142",
+                  "name": "Operadores de máquinas para fabricar productos de material plástico"
+                },
+                {
+                  "code": "8143",
+                  "name": "Operadores de máquinas para fabricar productos de papel"
+                }
+              ]
+            },
+            {
+              "code": "815",
+              "name": "Operadores de máquinas para fabricar productos textiles y artículos de piel y cuero",
+              "unit_groups": [
+                {
+                  "code": "8151",
+                  "name": "Operadores de máquinas de preparación de  bras, hilado y devanado"
+                },
+                {
+                  "code": "8152",
+                  "name": "Operadores de telares y otras máquinas tejedoras"
+                },
+                {
+                  "code": "8153",
+                  "name": "Operadores de máquinas de coser"
+                },
+                {
+                  "code": "8154",
+                  "name": "Operadores de máquinas de blanqueamiento, teñido y limpieza de tejidos"
+                },
+                {
+                  "code": "8155",
+                  "name": "Operadores de máquinas de tratamiento de pieles y cueros"
+                },
+                {
+                  "code": "8156",
+                  "name": "Operadores de máquinas para la fabricación de calzado y afines"
+                },
+                {
+                  "code": "8157",
+                  "name": "Operadores de máquinas lavarropas"
+                },
+                {
+                  "code": "8159",
+                  "name": "Operadores de máquinas para fabricar productos textiles y artículos de piel y cuero no clasi-  cados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "816",
+              "name": "Operadores de máquinas para elaborar alimentos y productos afines",
+              "unit_groups": [
+                {
+                  "code": "8160",
+                  "name": "Operadores de máquinas para elaborar alimentos y productos afines"
+                }
+              ]
+            },
+            {
+              "code": "817",
+              "name": "Operadores de instalaciones para la preparación de papel y de procesamiento de la madera",
+              "unit_groups": [
+                {
+                  "code": "8171",
+                  "name": "Operadores de instalaciones para la preparación de pasta para papel y papel"
+                },
+                {
+                  "code": "8172",
+                  "name": "Operadores de instalaciones de procesamiento de madera"
+                }
+              ]
+            },
+            {
+              "code": "818",
+              "name": "Otros operadores de máquinas y de instalaciones fijas",
+              "unit_groups": [
+                {
+                  "code": "8181",
+                  "name": "Operadores de instalaciones de vidriería y cerámica"
+                },
+                {
+                  "code": "8182",
+                  "name": "Operadores de máquinas de vapor y calderas"
+                },
+                {
+                  "code": "8183",
+                  "name": "Operadores de máquinas de embalaje, embotellamiento y etiquetado"
+                },
+                {
+                  "code": "8189",
+                  "name": "Operadores de máquinas y de instalaciones  jas no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "82",
+          "name": "Ensambladores",
+          "minor_groups": [
+            {
+              "code": "821",
+              "name": "Ensambladores",
+              "unit_groups": [
+                {
+                  "code": "8211",
+                  "name": "Ensambladores de maquinaria mecánica"
+                },
+                {
+                  "code": "8212",
+                  "name": "Ensambladores de equipos eléctricos y electrónicos"
+                },
+                {
+                  "code": "8219",
+                  "name": "Ensambladores no clasificados bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "83",
+          "name": "Conductores de vehículos y operadores de equipos pesados móviles",
+          "minor_groups": [
+            {
+              "code": "831",
+              "name": "Maquinistas de locomotoras y afines",
+              "unit_groups": [
+                {
+                  "code": "8311",
+                  "name": "Maquinistas de locomotoras"
+                },
+                {
+                  "code": "8312",
+                  "name": "Guardafrenos, guardagujas y agentes de maniobras"
+                }
+              ]
+            },
+            {
+              "code": "832",
+              "name": "Conductores de automóviles, camionetas y motocicletas",
+              "unit_groups": [
+                {
+                  "code": "8321",
+                  "name": "Conductores de motocicletas"
+                },
+                {
+                  "code": "8322",
+                  "name": "Conductores de automóviles, taxis y camionetas"
+                }
+              ]
+            },
+            {
+              "code": "833",
+              "name": "Conductores de camiones pesados y autobuses",
+              "unit_groups": [
+                {
+                  "code": "8331",
+                  "name": "Conductores de autobuses y tranvías"
+                },
+                {
+                  "code": "8332",
+                  "name": "Conductores de camiones pesados"
+                }
+              ]
+            },
+            {
+              "code": "834",
+              "name": "Operadores de equipos pesados móviles",
+              "unit_groups": [
+                {
+                  "code": "8341",
+                  "name": "Operadores de maquinaria agrícola y forestal móvil"
+                },
+                {
+                  "code": "8342",
+                  "name": "Operadores de máquinas de movimiento de tierras y afines"
+                },
+                {
+                  "code": "8343",
+                  "name": "Operadores de grúas, aparatos elevadores y afines"
+                },
+                {
+                  "code": "8344",
+                  "name": "Operadores de autoelevadoras"
+                }
+              ]
+            },
+            {
+              "code": "835",
+              "name": "Marineros de cubierta y afines",
+              "unit_groups": [
+                {
+                  "code": "8350",
+                  "name": "Marineros de cubierta y afines"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "9",
+      "name": "Ocupaciones elementales",
+      "sub_major_groups": [
+        {
+          "code": "91",
+          "name": "Limpiadores y asistentes",
+          "minor_groups": [
+            {
+              "code": "911",
+              "name": "Limpiadores y asistentes domésticos de hoteles y oficinas",
+              "unit_groups": [
+                {
+                  "code": "9111",
+                  "name": "Limpiadores y asistentes domésticos"
+                },
+                {
+                  "code": "9112",
+                  "name": "Limpiadores y asistentes de oficinas, hoteles y otros establecimientos"
+                }
+              ]
+            },
+            {
+              "code": "912",
+              "name": "Limpiadores de vehículos, ventanas, ropa y otra limpieza a mano",
+              "unit_groups": [
+                {
+                  "code": "9121",
+                  "name": "Lavanderos y planchadores manuales"
+                },
+                {
+                  "code": "9122",
+                  "name": "Lavadores de vehículos"
+                },
+                {
+                  "code": "9123",
+                  "name": "Lavadores de ventanas"
+                },
+                {
+                  "code": "9129",
+                  "name": "Otro personal de limpieza"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "92",
+          "name": "Peones agropecuarios, pesqueros y forestales",
+          "minor_groups": [
+            {
+              "code": "921",
+              "name": "Peones agropecuarios, pesqueros y forestales",
+              "unit_groups": [
+                {
+                  "code": "9211",
+                  "name": "Peones de explotaciones agrícolas"
+                },
+                {
+                  "code": "9212",
+                  "name": "Peones de explotaciones ganaderas"
+                },
+                {
+                  "code": "9213",
+                  "name": "Peones de explotaciones de cultivos mixtos y ganaderos"
+                },
+                {
+                  "code": "9214",
+                  "name": "Peones de jardinería y horticultura"
+                },
+                {
+                  "code": "9215",
+                  "name": "Peones forestales"
+                },
+                {
+                  "code": "9216",
+                  "name": "Peones de pesca y acuicultura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "93",
+          "name": "Peones de la minería, la construcción, la industria manufacturera y el transporte",
+          "minor_groups": [
+            {
+              "code": "931",
+              "name": "Peones de la minería y la construcción",
+              "unit_groups": [
+                {
+                  "code": "9311",
+                  "name": "Peones de minas y canteras"
+                },
+                {
+                  "code": "9312",
+                  "name": "Peones de obras públicas y mantenimiento"
+                },
+                {
+                  "code": "9313",
+                  "name": "Peones de la construcción de edi cios"
+                }
+              ]
+            },
+            {
+              "code": "932",
+              "name": "Peones de la industria manufacturera",
+              "unit_groups": [
+                {
+                  "code": "9321",
+                  "name": "Empacadores manuales"
+                },
+                {
+                  "code": "9329",
+                  "name": "Peones de la industria manufacturera no clasificados bajo otros epígrafes"
+                }
+              ]
+            },
+            {
+              "code": "933",
+              "name": "Peones del transporte y almacenamiento",
+              "unit_groups": [
+                {
+                  "code": "9331",
+                  "name": "Conductores de vehículos accionados a pedal o a brazo"
+                },
+                {
+                  "code": "9332",
+                  "name": "Conductores de vehículos y máquinas de tracción animal"
+                },
+                {
+                  "code": "9333",
+                  "name": "Peones de carga"
+                },
+                {
+                  "code": "9334",
+                  "name": "Reponedores de estanterías"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "94",
+          "name": "Ayudantes de preparación de alimentos",
+          "minor_groups": [
+            {
+              "code": "941",
+              "name": "Ayudantes de preparación de alimentos",
+              "unit_groups": [
+                {
+                  "code": "9411",
+                  "name": "Cocineros de comidas rápidas"
+                },
+                {
+                  "code": "9412",
+                  "name": "Ayudantes de cocina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "95",
+          "name": "Vendedores ambulantes de servicios y afines",
+          "minor_groups": [
+            {
+              "code": "951",
+              "name": "Trabajadores ambulantes de servicios y afines",
+              "unit_groups": [
+                {
+                  "code": "9510",
+                  "name": "Trabajadores ambulantes de servicios y afines"
+                }
+              ]
+            },
+            {
+              "code": "952",
+              "name": "Vendedores ambulantes (excluyendo de comida)",
+              "unit_groups": [
+                {
+                  "code": "9520",
+                  "name": "Vendedores ambulantes (excluyendo de comida)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "96",
+          "name": "Recolectores de desechos y otras ocupaciones elementales",
+          "minor_groups": [
+            {
+              "code": "961",
+              "name": "Recolectores de desechos",
+              "unit_groups": [
+                {
+                  "code": "9611",
+                  "name": "Recolectores de basura y material reciclable"
+                },
+                {
+                  "code": "9612",
+                  "name": "Clasificadores de desechos"
+                },
+                {
+                  "code": "9613",
+                  "name": "Barrenderos y afines"
+                }
+              ]
+            },
+            {
+              "code": "962",
+              "name": "Otras ocupaciones elementales",
+              "unit_groups": [
+                {
+                  "code": "9621",
+                  "name": "Mensajeros, mandaderos, maleteros y repartidores"
+                },
+                {
+                  "code": "9622",
+                  "name": "Personas que realizan trabajos varios"
+                },
+                {
+                  "code": "9623",
+                  "name": "Recolectores de dinero en aparatos de venta automática y lectores de medidores"
+                },
+                {
+                  "code": "9624",
+                  "name": "Acarreadores de agua y recolectores de leña"
+                },
+                {
+                  "code": "9629",
+                  "name": "Ocupaciones elementales no clasi cadas bajo otros epígrafes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "0",
+      "name": "Ocupaciones militares",
+      "sub_major_groups": [
+        {
+          "code": "01",
+          "name": "Oficialesdelasfuerzasarmadas",
+          "minor_groups": [
+            {
+              "code": "011",
+              "name": "Oficiales de las fuerzas armadas",
+              "unit_groups": [
+                {
+                  "code": "0110",
+                  "name": "Oficiales de las fuerzas armadas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "02",
+          "name": "Suboficiales de las fuerzas armadas",
+          "minor_groups": [
+            {
+              "code": "021",
+              "name": "Suboficiales de las fuerzas armadas",
+              "unit_groups": [
+                {
+                  "code": "0210",
+                  "name": "Suboficiales de las fuerzas armadas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "03",
+          "name": "Otros miembros de las fuerzas armadas",
+          "minor_groups": [
+            {
+              "code": "031",
+              "name": "Otros miembros de las fuerzas armadas",
+              "unit_groups": [
+                {
+                  "code": "0310",
+                  "name": "Otros miembros de las fuerzas armadas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
